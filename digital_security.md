@@ -4,7 +4,7 @@ In simple words it is about protection. Earlier, we had physical security to pro
 
 The three pillars of security are :
 
-# CIA triad
+### CIA triad
 
 <b>Confidentiality</b> — this focuses on protecting the “Read” operation. You do not want unauthorized people to read your confidential information, for example, your credit card number, your passwords or payroll amount.
 
@@ -12,12 +12,9 @@ The three pillars of security are :
 
 <b>Availability</b> — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
 
-
+---------
    
 #### Powerful Tool-kits available today
----------
-
- -   [Apple Privacy](https://www.apple.com/lae/privacy/) Apple official privacy *portal*. This is an Apple-centric post, after all.
 
  -   [Securityplanner](https://securityplanner.org) an extremely easy to use and very informative website to help you improve your online safety.
 
@@ -27,51 +24,65 @@ The three pillars of security are :
 
  -   [Webcensus](https://webtransparency.cs.princeton.edu/webcensus/) informative census about tracking and many other issues I've discussed in this post.
 
- -   [Webtap](https://webtap.princeton.edu) Princeton's Web Transparency and Accountability site.
+-   [Webtap](https://webtap.princeton.edu) Princeton's Web Transparency and Accountability site.
 
- -   [Schneier](https://www.schneier.com/blog/archives/2017/11/motherboard_dig.html) a small list of more security guides. *There are too many of these.*
+-   [Schneier](https://www.schneier.com/blog/archives/2017/11/motherboard_dig.html) a small list of more security guides. *There are too many of these.*
 
- -   [Security Berkeley](https://security.berkeley.edu/resources) extremely valid Berkeley information security resources. Browse around. Start from the left menu.
+-   [Security Berkeley](https://security.berkeley.edu/resources) extremely valid Berkeley information security resources. Browse around. Start from the left menu.
 
- -   [The Ultimate List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) a number of interesting tools to perform various checks against your browser, connection, emails and so forth. Not all of them are *that* valid and this is not, by any means, the *ultimate list*. But I prefer to group them together in one link rather than enlarging this list enormously.
+-   [The Ultimate List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) a number of interesting tools to perform various checks against your browser, connection, emails and so forth. Not all of them are *that* valid and this is not, by any means, the *ultimate list*. But I prefer to group them together in one link rather than enlarging this list enormously.
 
- -   [The state of Privacy](http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/) FWIW, *The state of privacy in post-Snowden America* by the [Pew Research Center](https://en.wikipedia.org/wiki/Pew_Research_Center)
+-   [The state of Privacy](http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/) FWIW, *The state of privacy in post-Snowden America* by the [Pew Research Center](https://en.wikipedia.org/wiki/Pew_Research_Center)
 
- -   [SCU](https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/why-we-care-about-privacy/) SCU informative page on why you should care about privacy.
+-   [SCU](https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/why-we-care-about-privacy/) SCU informative page on why you should care about privacy.
 
- -   [Plato Stanford](https://plato.stanford.edu/entries/it-privacy/) Stanford informative page on IT and Privacy.
+-   [Plato Stanford](https://plato.stanford.edu/entries/it-privacy/) Stanford informative page on IT and Privacy.
+
+-   Mozilla's [Internet Health Report](https://internethealthreport.org/) [Online Privacy and Security brief](https://assets.mozilla.net/pdf/IHPbriefs_Online_Privacy_March_2017.pdf) or O A Healthy Internet is Secure and Private. The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create. 
+
+-   [MyShadow](https://myshadow.org/train) helps you take control of your data. What is a Digital Shadow ? Watch [this](https://myshadow.org/media/video/what-is-a-digital-shadow.mp4) to understand. MyShadow.org offers practical ways to take back your privacy online. 
+
+-   [Electronic Frontier Foundation (EFF)](https://kaiiyer.ninja/blog/www.eff.org) The leading nonprofit defending digital privacy, free speech, and innovation. Defending your rights in the digital world. The Electronic Frontier Foundation is an independent non-profit working to protect online privacy for nearly thirty years. 
+
+-   [Surveillance Self-Defense](https://ssd.eff.org) Tips, Tools and How-tos for Safer Online Communications.
+
+-   [Thatoneprivacysite](https://thatoneprivacysite.net) helps you choose your own VPN and encrypted email services from an educated point of view.
+
+-   [Securemessagingapps](https://www.securemessagingapps.com) compares secure messaging apps (even if Skype and WhatsApp are out of place here) and choose your own from an educated point of view.
+
+-   [Privacytools](https://www.privacytools.io) is a good site to learn more about things I've pointed out and discussed here
+
+-   [Security Education Companion](https://sec.eff.org) A free resource for digital security educators. SEC is a resource for people teaching digital security to their friends and neighbors. 
+
+-   [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger automatically learns to block invisible trackers. 
+
+-   [Tor Project](https://kaiiyer.ninja/blog/www.torproject.org) We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding. 
+
+-   [DEFEND and DETOX](https://thimbleprojects.org/amira/283780/#overview) An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere. 
+
+-   [Data Security Exchange](https://www.digitalsecurityexchange.org/) Civil society organizations face a number of different threats. We link them with digital security providers to help. Keeping US civil society safe from digital attack. 
 
 -    [Webtransparency](https://webtransparency.cs.princeton.edu/no_boundaries/session_replay_sites.html) a list of websites that steal your sensitive data (such as usernames and passwords) for commercial purposes.
 
  -   [Nomoreransom](https://www.nomoreransom.org/en/index.html) ransomware is malware that locks your computer and mobile devices or encrypts your electronic files. When this happens, you can't get to the data unless you pay a ransom. However this is not guaranteed and you should never pay!
-
+ 
  -   [Spreadprivacy](https://spreadprivacy.com) DuckDuckGo privacy oriented blog/info page.
-
+ 
  -   [Do We Need a New Internet?](http://www.bbc.co.uk/programmes/p05y10x8) BBC Tomorrow's World episode entitled "Do We Need a New Internet?" is pretty interesting.
-
-
-
-
-
--   Mozilla's [Internet Health Report](https://internethealthreport.org/) [Online Privacy and Security brief](https://assets.mozilla.net/pdf/IHPbriefs_Online_Privacy_March_2017.pdf) or O A Healthy Internet is Secure and Private. The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create. 
--   [MyShadow](https://myshadow.org/train) helps you take control of your data. What is a Digital Shadow ? Watch [this](https://myshadow.org/media/video/what-is-a-digital-shadow.mp4) to understand. MyShadow.org offers practical ways to take back your privacy online. 
--   [Electronic Frontier Foundation (EFF)](https://kaiiyer.ninja/blog/www.eff.org) The leading nonprofit defending digital privacy, free speech, and innovation. Defending your rights in the digital world. The Electronic Frontier Foundation is an independent non-profit working to protect online privacy for nearly thirty years. 
--   [Surveillance Self-Defense](https://ssd.eff.org) Tips, Tools and How-tos for Safer Online Communications 
--   [Thatoneprivacysite](https://thatoneprivacysite.net) helps you choose your own VPN and encrypted email services from an educated point of view
--   [Securemessagingapps](https://www.securemessagingapps.com) compares secure messaging apps (even if Skype and WhatsApp are out of place here) and choose your own from an educated point of view
--   [Privacytools](https://www.privacytools.io) is a good site to learn more about things I've pointed out and discussed here
--   [Surveillance Self-Defense](https://ssd.eff.org) Tips, Tools and How-tos for Safer Online Communications 
--   [Security Education Companion](https://sec.eff.org) A free resource for digital security educators. SEC is a resource for people teaching digital security to their friends and neighbors. 
--   [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger automatically learns to block invisible trackers. 
--   [Tor Project](https://kaiiyer.ninja/blog/www.torproject.org) We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding. 
--   [DEFEND and DETOX](https://thimbleprojects.org/amira/283780/#overview) An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere. 
--   [Data Security Exchange](https://www.digitalsecurityexchange.org/) Civil society organizations face a number of different threats. We link them with digital security providers to help. Keeping US civil society safe from digital attack. 
+ 
 -   [Speak Up & Stay Safe(r)](https://onlinesafety.feministfrequency.com/en/) A Guide to Protecting Yourself From Online Harassment. A Guide to Protecting Yourself From Online Harassment. 
+
 -   [Security in a Box](https://kaiiyer.ninja/blog/tacticssecurityinabox.org) Digital security tools and tactics. The Tactics Guides in this toolkit cover basic principles, including advice on how to use social media and mobile phones more safely. The Tool Guides offer step-by-step instructions to help you install, configure and use some essential digital security software and services. 
+
 -   [Accessnow](https://www.accessnow.org/first-look-at-digital-security/) Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age. 
+
 -   [Data Detox kits](https://tacticaltech.org/news/data-detox-kit/) Small steps to change your habits and reduce data traces. The Data Detox Kit is an 8-day step-by-step guide on how to reduce data traces online. Each day has a different focus --- from cleaning up your apps, to social media, to your phone's connectivity --- informing you of the data processes, walking you through some changes you can make, and giving you a small challenge at the end of each day. 
+
 -   [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) A worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible in order to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide. 
+
 -   [Motherboard](https://motherboard.vice.com/en_us/article/4xby8g/how-to-give-a-digital-security-training) A Practical Checklist For Leading Your First Training.Do you want to teach people about infosec, opsec and how to stay safe online? Here's where to start.
+
+-   [Apple Privacy](https://www.apple.com/lae/privacy/) Apple official privacy *portal*. This is an Apple-centric post, after all.
 
 ### Articles Worth Reading 
 -   [How To Make Sure Your Home Address Isn't Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/) How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online... 
@@ -91,7 +102,7 @@ The three pillars of security are :
 
 #### Conferences :
 
-    -   [OWASP Seasides](https://www.owaspseasides.com/)
+-   [OWASP Seasides](https://www.owaspseasides.com/)
 -   [OWASP Global Appsec](https://www.iacertification.org/cpt_certified_penetration_tester.html)
 -   [DEFCON](https://www.iacertification.org/cept_certified_expert_penetration_tester.html)
 -   [HOPE](https://hope.net/) 
@@ -103,7 +114,7 @@ The three pillars of security are :
 -   [RSA Conf](https://www.rsaconference.com/events/us19) 
 -   [HITB SecConf](https://conference.hitb.org/) 
 -   [IEEE Security](https://www.ieee-security.org/TC/SP2019/) 
--   [BlackHat](https://blackhat.com/)(My fav) 
+-   <b>[BlackHat](https://blackhat.com/)</b> 
 -   [USENIX CONFS](https://www.usenix.org/conferences)
 
     #### Podcasts :
