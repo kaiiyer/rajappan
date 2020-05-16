@@ -1,20 +1,4 @@
-What is Security?
-
-In simple words it is about protection. Earlier, we had physical security to protect our valuable assets in the physical world. But when we move more toward the cyber world, we need a new set of software and tools to protect our data and privacy.
-
-The three pillars of security are :
-
-### CIA triad
-
-<b>Confidentiality</b> — this focuses on protecting the “Read” operation. You do not want unauthorized people to read your confidential information, for example, your credit card number, your passwords or payroll amount.
-
-<b>Integrity</b> — this focuses on protecting the “Write” operation. You do not want to unauthorized people to modify your data. For example, you do not want someone to withdraw money from your bank account without your permission.
-
-<b>Availability</b> — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
-
----------
-   
-#### Powerful Tool-kits available today
+### Powerful Tool-kits available today
 
  -   [Securityplanner](https://securityplanner.org) an extremely easy to use and very informative website to help you improve your online safety.
 
@@ -42,7 +26,7 @@ The three pillars of security are :
 
 -   [MyShadow](https://myshadow.org/train) helps you take control of your data. What is a Digital Shadow ? Watch [this](https://myshadow.org/media/video/what-is-a-digital-shadow.mp4) to understand. MyShadow.org offers practical ways to take back your privacy online. 
 
--   [Electronic Frontier Foundation (EFF)](https://kaiiyer.ninja/blog/www.eff.org) The leading nonprofit defending digital privacy, free speech, and innovation. Defending your rights in the digital world. The Electronic Frontier Foundation is an independent non-profit working to protect online privacy for nearly thirty years. 
+-   [Electronic Frontier Foundation (EFF)](https://www.eff.org) The leading nonprofit defending digital privacy, free speech, and innovation. Defending your rights in the digital world. The Electronic Frontier Foundation is an independent non-profit working to protect online privacy for nearly thirty years. 
 
 -   [Surveillance Self-Defense](https://ssd.eff.org) Tips, Tools and How-tos for Safer Online Communications.
 
@@ -56,7 +40,7 @@ The three pillars of security are :
 
 -   [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger automatically learns to block invisible trackers. 
 
--   [Tor Project](https://kaiiyer.ninja/blog/www.torproject.org) We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding. 
+-   [Tor Project](https://www.torproject.org) We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding. 
 
 -   [DEFEND and DETOX](https://thimbleprojects.org/amira/283780/#overview) An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere. 
 
@@ -72,7 +56,7 @@ The three pillars of security are :
  
 -   [Speak Up & Stay Safe(r)](https://onlinesafety.feministfrequency.com/en/) A Guide to Protecting Yourself From Online Harassment. A Guide to Protecting Yourself From Online Harassment. 
 
--   [Security in a Box](https://kaiiyer.ninja/blog/tacticssecurityinabox.org) Digital security tools and tactics. The Tactics Guides in this toolkit cover basic principles, including advice on how to use social media and mobile phones more safely. The Tool Guides offer step-by-step instructions to help you install, configure and use some essential digital security software and services. 
+-   [Security in a Box](https://tacticssecurityinabox.org) Digital security tools and tactics. The Tactics Guides in this toolkit cover basic principles, including advice on how to use social media and mobile phones more safely. The Tool Guides offer step-by-step instructions to help you install, configure and use some essential digital security software and services. 
 
 -   [Accessnow](https://www.accessnow.org/first-look-at-digital-security/) Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age. 
 
@@ -84,7 +68,10 @@ The three pillars of security are :
 
 -   [Apple Privacy](https://www.apple.com/lae/privacy/) Apple official privacy *portal*. This is an Apple-centric post, after all.
 
+---------
+
 ### Articles Worth Reading 
+
 -   [How To Make Sure Your Home Address Isn't Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/) How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online... 
 -   [What is Doxing and how to Prevent it from Happening](https://www.propublica.org/article/so-what-the-hell-is-doxxing) - So What the Hell Is Doxxing? Remember Gamergate? Or when the identity of that dentist who killed Cecil the Lion was posted?... 
 -   [How to Use Signal Without Giving Out Your Phone Number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/) Just a few years ago, sending encrypted messages was a challenge. Just to get started, you had to spend hours following... 
@@ -98,9 +85,9 @@ The three pillars of security are :
 -   [Encrypting Your Laptop Like You Mean It](https://theintercept.com/2015/04/27/encrypting-laptop-like-mean/) TIME AND AGAIN, people are told there is one obvious way to mitigate privacy threats of all sorts, from mass... 
 -   [Schneier on Security Micah](https://theintercept.com/staff/micah-lee/) Lee's work at The Intercept
 
-## Free professional resources, conferences, podcasts and webinars
+---------
 
-#### Conferences :
+### Conferences :
 
 -   [OWASP Seasides](https://www.owaspseasides.com/)
 -   [OWASP Global Appsec](https://www.iacertification.org/cpt_certified_penetration_tester.html)
@@ -117,7 +104,7 @@ The three pillars of security are :
 -   <b>[BlackHat](https://blackhat.com/)</b> 
 -   [USENIX CONFS](https://www.usenix.org/conferences)
 
-    #### Podcasts :
+### Podcasts :
 
 -   [Daily Stormcasts by SANS Internet Stormcasts](https://isc.sans.edu/podcast.html#stormcast) 
 -   [Crypto Gram Security Podcasts](https://crypto-gram.libsyn.com/) 
@@ -127,7 +114,7 @@ The three pillars of security are :
 -   [Security Now with Steve Gibson](https://twit.tv/shows/security-now) 
 -   [Down the Security Rabbit Hole](http://podcast.wh1t3rabbit.net/)
 
-    #### Quick Resources :
+### Quick Resources :
 
 -   [Ethical Hacker](https://ethicalhacker.net/) 
 -   [Bright Talk](https://www.brighttalk.com/topic/cyber-security/) 
