@@ -1,4 +1,10 @@
-### Powerful Tool-kits available today
+Digital privacy and online anonymity are extremely hard to achieve because of increasingly pervasive and aggressive data mining practices and global mass surveillance programs.The use of services and software that one thought to be safe, private, and secure that ain't really so, give a false sense of security/privacy, and this is possibly even more dangerous.
+
+**It's time to adopt healthy cyber habits and act wisely**
+
+Let's look at some of the resources available today.
+
+### Powerful Tool-kits
 
  -   [Securityplanner](https://securityplanner.org) an extremely easy to use and very informative website to help you improve your online safety.
 
@@ -14,11 +20,9 @@
 
 -   [Security Berkeley](https://security.berkeley.edu/resources) extremely valid Berkeley information security resources. Browse around. Start from the left menu.
 
--   [The Ultimate List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) a number of interesting tools to perform various checks against your browser, connection, emails and so forth. Not all of them are *that* valid and this is not, by any means, the *ultimate list*. But I prefer to group them together in one link rather than enlarging this list enormously.
+-   [The Ultimate List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) a number of interesting tools to perform various checks against your browser, connection, emails and so forth.
 
 -   [The state of Privacy](http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/) FWIW, *The state of privacy in post-Snowden America* by the [Pew Research Center](https://en.wikipedia.org/wiki/Pew_Research_Center)
-
--   [SCU](https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/why-we-care-about-privacy/) SCU informative page on why you should care about privacy.
 
 -   [Plato Stanford](https://plato.stanford.edu/entries/it-privacy/) Stanford informative page on IT and Privacy.
 
@@ -58,8 +62,6 @@
 
 -   [Security in a Box](https://tacticssecurityinabox.org) Digital security tools and tactics. The Tactics Guides in this toolkit cover basic principles, including advice on how to use social media and mobile phones more safely. The Tool Guides offer step-by-step instructions to help you install, configure and use some essential digital security software and services. 
 
--   [Accessnow](https://www.accessnow.org/first-look-at-digital-security/) Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age. 
-
 -   [Data Detox kits](https://tacticaltech.org/news/data-detox-kit/) Small steps to change your habits and reduce data traces. The Data Detox Kit is an 8-day step-by-step guide on how to reduce data traces online. Each day has a different focus --- from cleaning up your apps, to social media, to your phone's connectivity --- informing you of the data processes, walking you through some changes you can make, and giving you a small challenge at the end of each day. 
 
 -   [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) A worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible in order to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide. 
@@ -73,9 +75,11 @@
 ### Articles Worth Reading 
 
 -   [How To Make Sure Your Home Address Isn't Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/) How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online... 
+-   [SCU](https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/why-we-care-about-privacy/) Santa Clara University informative page on why you should care about privacy.
 -   [What is Doxing and how to Prevent it from Happening](https://www.propublica.org/article/so-what-the-hell-is-doxxing) - So What the Hell Is Doxxing? Remember Gamergate? Or when the identity of that dentist who killed Cecil the Lion was posted?... 
 -   [How to Use Signal Without Giving Out Your Phone Number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/) Just a few years ago, sending encrypted messages was a challenge. Just to get started, you had to spend hours following... 
 -   [Don't like being tracked online? Set up a VPN for free How to set up a VPN in 10 minutes for free](https://medium.freecodecamp.org/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907) (and why you urgently need one) 
+-   [Accessnow](https://www.accessnow.org/first-look-at-digital-security/) Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age. 
 -   [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/) Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing... 
 -   [Phishing's No Phun; Here's How To Resist](https://www.autostraddle.com/phishings-no-phun-heres-how-to-resist-the-bait-378342/) The Bait Likely you've heard about the massive phishing scam of the week. Some malicious human... 
 -   [Equality Labs Privacy + Security Curriculum](https://www.equalitylabs.org/curriculum/) Guide This curriculum was co-developed by qualified digital security trainers of color who have experience working in... 
