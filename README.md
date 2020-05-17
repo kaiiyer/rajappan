@@ -26,6 +26,8 @@ The three pillars of security are:
 
 <b>Availability</b> — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
 
+---------
+
 >Wanna explore the Rajappan Project? Okay! We got you. Click the links below to jump in!!!
 
 [**Privacy Tools and Digital Security Articles**](digital_security.md)
