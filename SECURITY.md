@@ -7,15 +7,15 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 3.1.x   | :white_check_mark: |
+| 3.0.x   | :x:                |
+| 2.0.x   | :white_check_mark: |
+| < 2.0   | :x:                |
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability/Issue
 
 Use this section to tell people how to report a vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- Open an Issue(if not open beforehand) and explain the details as per the provided template.
+- This is an ongoing project so you can expect the issues to be addressed real quick.
+- If the vulnerability/issue is accepted then your name will appear on the contributor list.
