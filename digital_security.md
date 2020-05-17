@@ -1,4 +1,4 @@
-Digital privacy and online anonymity are extremely hard to achieve because of increasingly pervasive and aggressive data mining practices and global mass surveillance programs.The use of services and software that one thought to be safe, private, and secure that ain't really so, give a false sense of security/privacy, and this is possibly even more dangerous.
+Digital privacy and online anonymity are extremely hard to achieve because of increasingly pervasive and aggressive data mining practices and global mass surveillance programs. The use of services and software that one thought to be safe, private, and secure that ain't really so, give a false sense of security/privacy, and this is possibly even more dangerous.
 
 **It's time to adopt healthy cyber habits and act wisely**
 
