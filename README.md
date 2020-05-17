@@ -1,5 +1,7 @@
 # The Rajappan Project
 
+<img src="Logo/8.png" alt="Rajappan: Breaking the Limits" width="30%" >
+
 The All in one Security project for Digital Privacy. A step towards a better & secure Internet
 
 <b>What is Security?</b>
