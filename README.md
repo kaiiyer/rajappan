@@ -28,10 +28,13 @@ The three pillars of security are:
 
 ---------
 
->Wanna explore the Rajappan Project? Okay! We got you. Click the links below to jump in!!!
+>Wanna explore the Rajappan Project? Okay! We got you.
+Click the links below to jump in !!!
 
 [**Privacy Tools and Digital Security Articles**](digital_security.md)
- </br>
+
+[**Security Conferences and Podcasts**](conf-pod.md)
+
  
 ---------
 
