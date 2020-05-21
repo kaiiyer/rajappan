@@ -91,33 +91,6 @@ Let's look at some of the resources available today.
 
 ---------
 
-### Conferences :
-
--   [OWASP Seasides](https://www.owaspseasides.com/)
--   [OWASP Global Appsec](https://www.iacertification.org/cpt_certified_penetration_tester.html)
--   [DEFCON](https://www.iacertification.org/cept_certified_expert_penetration_tester.html)
--   [HOPE](https://hope.net/) 
--   [Toor Camp](http://toorcamp.toorcon.net/) 
--   [CyberSec Summit](https://cybersummitusa.com/2017-boston/) 
--   [ENIGMA](https://www.usenix.org/conference/enigma2017#main%5C) 
--   [CyberSec Manchester](https://infosec-conferences.com/events-in-2019/cyber-security-manchester/) 
--   [SANS](https://www.sans.org/event/miami-2019) 
--   [RSA Conf](https://www.rsaconference.com/events/us19) 
--   [HITB SecConf](https://conference.hitb.org/) 
--   [IEEE Security](https://www.ieee-security.org/TC/SP2019/) 
--   <b>[BlackHat](https://blackhat.com/)</b> 
--   [USENIX CONFS](https://www.usenix.org/conferences)
-
-### Podcasts :
-
--   [Daily Stormcasts by SANS Internet Stormcasts](https://isc.sans.edu/podcast.html#stormcast) 
--   [Crypto Gram Security Podcasts](https://crypto-gram.libsyn.com/) 
--   [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q) 
--   [The Cyberwire](https://www.thecyberwire.com/podcasts/) 
--   [Risky Business](http://risky.biz/netcasts/risky-business) 
--   [Security Now with Steve Gibson](https://twit.tv/shows/security-now) 
--   [Down the Security Rabbit Hole](http://podcast.wh1t3rabbit.net/)
-
 ### Quick Resources :
 
 -   [Ethical Hacker](https://ethicalhacker.net/) 
