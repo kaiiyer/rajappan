@@ -15,7 +15,16 @@
 -   [**BlackHat**](https://blackhat.com/) Inspire professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors.
 -   [USENIX CONFS](https://www.usenix.org/conferences) Each year, USENIX hosts more than a dozen conferences and workshops on topics in advanced computing systems. 
 
-## Podcasts:
+## Webinars:
+-   [The Ethical Hacker Network](https://ethicalhacker.net/) - Online magazine and community for security professionals.
+
+-   [Bright Talk](https://www.brighttalk.com/topic/cyber-security/) - Discover the latest collection of talks and videos on Cyber Security from industry experts.
+
+ -   [Do We Need a New Internet?](http://www.bbc.co.uk/programmes/p05y10x8) BBC Tomorrow's World episode entitled "Do We Need a New Internet?".
+
+-   [EC Council Webinar](https://ciso.eccouncil.org/webinars/) - EC Council brings together the best and brightest of the information security leaders via educational resources, and highly successful CISO events in order to advance the cause of information security.
+
+##Podcasts:
 
 -   [**Darknet Diaries**](https://darknetdiaries.com/) True stories from the dark side of the Internet. This is a podcast about hackers, breaches, APTs, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network.
 -   [Daily Stormcasts by SANS Internet Stormcasts](https://isc.sans.edu/podcast.html#stormcast) provide regular information security threat updates.
