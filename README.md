@@ -31,16 +31,18 @@ The three pillars of security are:
 >Wanna explore the Rajappan Project? Okay! We got you.
 Click the links below to jump in !!!
 
-[**Privacy Tools and Digital Security Articles**](digital-security.md)
+--> [**Privacy Tools and Digital Security Articles**](guide-art.md)
 
-[**Security Conferences and Podcasts**](conf-pod.md)
+--> [**Security Conferences and Podcasts**](conf-pod.md)
 
-[**Security Books**](books.md)
+--> [**Security Books**](books.md)
 
-[**Cheatsheets**](cheatsheets.md)
+--> [**Cheatsheets**](cheatsheets.md)
 
-[**Blogs & Mailing Lists**](blog.md)
+--> [**Blogs & Mailing Lists**](blog.md)
+
+--> [Powerful Toolkits](toolkits.md)
+
 ---------
-
 
 <div style='display: block; width: 250px; margin-left: auto; margin-right: auto;'><a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0;' alt='Ethical Design' src='https://ind.ie/ethical-design/images/ethical-design-badge-tiny.svg'></a><p>We practice <strong>Ethical</strong> Design.</p></div>

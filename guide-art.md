@@ -59,5 +59,4 @@ Let's look at some of the resources available today:
 
 -   [Cyberwise](https://www.cyberwise.org/) - CyberWise is a resource site for BUSY grownups who want to help youth use digital media safely and wisely. It is the companion site to Cyber Civics, our comprehensive digital literacy program for middle school
     
----------
 Thanks for Reading
