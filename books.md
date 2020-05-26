@@ -3,14 +3,10 @@ Recommended Reading
 
 ### Books
 
-Suggested by [/u/ourari](https://www.reddit.com/u/ourari)
-
 -   Chaos Monkeys: Inside the Silicon Valley Money Machine, by Antonio Garcia Martinez
 -   [Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked](https://www.wired.com/2017/03/irresistible-the-rise-of-addictive-technology-and-the-business-of-keeping-us-hooked/), by Adam Alter
 -   [The Attention Merchants: How Our Time and Attention Are Gathered and Sold](http://magazine.columbia.edu/reviews/winter-2016/excerpt-%E2%80%9C-attention-merchants-epic-scramble-get-inside-our-heads%E2%80%9D) by Tim Wu
--   [Move Fast and Break Things: How Facebook, Google, and Amazon Cornered Culture and Undermined Democracy](https://www.rollingstone.com/culture/move-fast-and-break-things-book-excerpt-w480401), by Jonathan Taplin
-
-Suggested by [/u/One_Standard_Deviant](https://www.reddit.com/u/One_Standard_Deviant)
+-   [Move Fast and Break Things: How Facebook, Google, and Amazon Cornered Culture and Undermined Democracy](https://www.rollingstone.com/culture/move-fast-and-break-things-book-excerpt-w480401) By Jonathan Taplin
 
 -   [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your Worldr](https://www.schneier.com/books/data_and_goliath/) - Bruce Schneier
 -   [Intrustion](https://www.theguardian.com/books/2012/mar/09/intrusion-ken-macleod-review) - Ken MacLeod
@@ -22,8 +18,6 @@ Suggested by [/u/One_Standard_Deviant](https://www.reddit.com/u/One_Standard_Dev
 -   [The Dark Net](https://www.theguardian.com/books/2015/apr/03/the-dark-net-by-jamie-bartlett-review) - Jamie Bartlett
 -   [The Black Box Society](https://www.slate.com/articles/technology/bitwise/2015/01/black_box_society_by_frank_pasquale_a_chilling_vision_of_how_big_data_has.html) - Frank Pasquale
 -   [So You've Been Publicly Shamed](https://www.nytimes.com/2015/04/19/books/review/jon-ronsons-so-youve-been-publicly-shamed.html) - Jon Ronson
-
-Suggested by [/u/reddusr256](https://www.reddit.com/u/reddusr256)
 
 -   [Corporate Surveillance in Everyday Life](https://crackedlabs.org/en/corporate-surveillance) - Wolfie Christl
 
@@ -41,34 +35,18 @@ Suggested by [/u/reddusr256](https://www.reddit.com/u/reddusr256)
 
 -   [The Shallows](https://www.nytimes.com/2010/06/06/books/review/Lehrer-t.html) - Nicholas Carr
 
-Suggested by [/u/706b30](https://www.reddit.com/u/706b30)
-
 -   [The Art of Invisibility](https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online/) - Kevin Mitnick
-
-Suggested by [/u/inckorrect](https://www.reddit.com/u/inckorrect)
 
 -   [Little Brother](https://craphound.com/littlebrother/about/) - Cory Doctorow
 
-Suggested by [/u/internetsstuff](https://www.reddit.com/u/internetsstuff)
-
 -   [Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks](https://www.nostarch.com/silence.htm) - Michal Zalewski
-
-Suggested by [/u/j1v3_7urk3y](https://www.reddit.com/u/j1v3_7urk3y)
 
 -   [Master or Slave? The Fight for the Soul of Our Information Civilization](http://www.shoshanazuboff.com/new/about/) - Shoshana Zuboff
 
-Suggested by [/u/Vetrino](https://www.reddit.com/u/Vetrino)
-
 -   [Digital Disconnect: How Capitalism Is Turning the Internet Against Democracy](https://thenewpress.com/books/digital-disconnect) - Robert W. McChesney
-
-Suggested by [/u/Ihadsumthin4this](https://www.reddit.com/u/Ihadsumthin4this)
 
 -   How America Lost Its Secrets: Edward Snowden, the man and the theft - Edward Jay Epstein
 
-Suggested by [/u/fantastic_comment](https://www.reddit.com/u/fantastic_comment):
-
 -   [Networks of Control:A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](http://crackedlabs.org/en/networksofcontrol) - by Wolfie Christl and Sarah Spiekermann
-
-Suggested by [/u/povertylover](https://www.reddit.com/u/povertylover)
 
 -   The complete privacy and security desk reference volume - Michael Bazzell & Justin Carroll

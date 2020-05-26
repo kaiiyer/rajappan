@@ -1,46 +1,48 @@
 ## Blog for Pentesters:
 
--   https://blog.it-securityguard.com/
--   https://blog.innerht.ml/
--   https://brutelogic.com.br/blog/
--   https://klikki.fi/
--   https://philippeharewood.com/
--   https://seanmelia.wordpress.com/
--   https://respectxss.blogspot.com/
--   https://www.gracefulsecurity.com/
--   https://whitton.io/
--   https://tisiphone.net/
--   https://archive.nahamsec.com/
--   https://danlec.com/blog
--   https://wehackpeople.tumblr.com/
--   https://bitquark.co.uk/blog/
--   https://www.arneswinnen.net/
--   https://bugbountypoc.com/
--   https://medium.com/@arbazhussain/
--   https://shahmeeramir.com/
--   https://www.shawarkhan.com/
--   https://blog.kaiiyer.ninja/
--   https://blog.detectify.com/
--   https://www.rafayhackingarticles.net/…
--   https://forum.bugcrowd.com/
--   https://securitywall.co/
--   https://www.hackerone.com/blog
--   https://www.securitytube.net/
--   https://hackasia.org/
--   https://www.gangte.net/
--   https://mukarramkhalid.com/
--   https://securitytraning.com/
--   https://jubaeralnaziwhitehat.wordpress.com/…
--   https://hackaday.com/
--   https://www.securityfocus.com/
--   https://packetstormsecurity.com/
--   https://www.blackhat.com/
--   https://www.metasploit.com/
--   https://sectools.org/
--   https://labs.detectify.com/
--   https://blog.rubidus.com/
--   https://www.securityidiots.com/
--   https://hackernoon.com/
--   https://sqli-basic.blogspot.com/
--   https://bugbaba.blogspot.in/
--   https://vulnerability-lab.com/
+- [Securityguard Blog](https://blog.it-securityguard.com/) Security blog of Patrik Fehrenbach.
+- [Blog](https://blog.innerht.ml/)
+- [Blog](https://brutelogic.com.br/blog/) Security blog of Rodolfo Assis a.k.a. “Brute Logic” (or just “Brute”),a self-taught computer hacker,on Mastering the art of Cross Site Scripting.
+- [Blog](https://klikki.fi/)
+- [Blog](https://philippeharewood.com/) The blog-'These aren't the access_tokens you're looking for'
+- [Blog](https://seanmelia.wordpress.com/) The blog- 'Bug Bounty Findings by Meals' by Seanmelia
+- [Blog](https://respectxss.blogspot.com/) The blog-'Respect XSS' by Ashar Javed
+- [Blog](https://www.gracefulsecurity.com/) Blog by Holly Grace Williams,has thirteen years of experience in leading information security teams.
+- [Blog](https://whitton.io/) Blog by Jack,active participant of bug bounty programmes since the middle of 2012
+- [Blog](https://tisiphone.net/) Blog by Lesley Carhart, Full Spectrum Cyber-Warrior Princess, 20+ year IT industry veteran,speaks and writes about digital forensics and incident response, Industrial Control System Security, OSINT, and information security careers
+- [Blog](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [Blog](https://danlec.com/)blog
+- [Blog](https://wehackpeople.tumblr.com/) Tim Roberts (Z4nsh1n) & Brent White (B!TK!LL3R) are Sr. Security Consultants who specialize in Red Team & Social Engineering Assessments.Moved on to www.wehackpeople.com
+- [Blog](https://bitquark.co.uk/blog/) Security and code discussion, with dissections of recent vulnerabilities discovered as part of vendor bug bounty programmes
+- [Blog](https://www.arneswinnen.net/ Arne Swinnen's Security blog-Just Another Infosec Blog
+- [Blog](https://bugbountypoc.com/) - All Bug Bounty POC write ups by Security Researchers.
+- [Blog](https://medium.com/@arbazhussain/) -Security blog by Arbaz Hussain
+- [Blog](https://www.shawarkhan.com/) Shawar Khan, A Security Researcher at HackersRay, Bug Bounty Hunter and Red Team Member at Synack inc.,has over 4 years of experience, identified major security vulnerabilities in the world's well-known companieslisted in over +100 Halls of Fame
+- [Blog](https://blog.kaiiyer.ninja/) - A Blog that cares about your Privacy by Kai Iyer
+- [Blog](https://blog.detectify.com/) - Security blog from Detectify, Automated security and asset monitoring for all teams.
+- [Blog](https://www.rafayhackingarticles.net/)
+- [Blog](https://forum.bugcrowd.com/) Bugcrowd's community forum of researchers and white-hat hackers discussing information security and bug bounty programs.
+- [Blog](https://securitywall.co/blog.html/) Security blog from Securitywall
+- [Blog](https://www.hackerone.com/)blog Security blog from hackerone.com
+- [Blog](https://www.securitytube.net/)
+- [Blog](https://www.gangte.net/ A blog on hacking and cyber security.
+- [Blog](https://mukarramkhalid.com/) Security blog by Mukarram Khalid
+- [Blog](https://securitytraning.com/)
+- [Blog](https://jubaeralnaziwhitehat.wordpress.com/) JubaerAlNazi – Security Researcher & InfoSec Newbie: Exploiting Machines More Than Minds
+- [Blog](https://hackaday.com/) Hackaday serves up Fresh Hacks Every Day from around the Internet
+- [Blog](https://www.securityfocus.com/) a place to come together and share its collected wisdom and knowledge. From original news content to detailed technical papers and guest columnists, we’ve strived to be the community’s source for all things security related.
+- [Blog](https://packetstormsecurity.com/)
+- [Blog](https://www.blackhat.com/) Black Hat is the most technical and relevant information security event series in the world. For more than 20 years, Black Hat Briefings have provided attendees with the very latest in information security research, development, and trends in a strictly vendor-neutral environment
+- [Blog](https://www.metasploit.com/) helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
+- [Blog](https://sectools.org/) CyberSecurity blog by Gordon Lyon a.k.a Fyodor
+- [Blog](https://labs.detectify.com/) Web Security blog from Detectify,Automated security and asset monitoring for all teams.
+- [Blog](https://blog.rubidus.com/) personal blog by Jonathan Claudius.
+- [Blog](https://www.securityidiots.com/) Security blog by Security Idiots
+- [Blog](https://hackernoon.com/) An Independent Tech Media Site for Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts.
+- [Blog](https://sqli-basic.blogspot.com/) This Blog Just for Educational Purpose. One of the best ways is not responsible for the authorities. Stay With us to Learn Basic SQLi with Manual.
+- [Blog](https://bugbaba.blogspot.com/) Discoveries and Writings of security vulnerabilities that I have discovered - Noman Shaikh
+- [Blog](https://vulnerability-lab.com/) Vulnerability research,bug bountiesand vulnerability assessments
+
+## Mail Lists for Pentesters
+- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/): A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
+- [Bugtraq Mailing List](https://seclists.org/bugtraq/) - The premier general security mailing list. Vulnerabilities are often announced here first, so check frequently! 
