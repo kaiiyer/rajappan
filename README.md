@@ -2,7 +2,7 @@
 
 The All in one Security project for Digital Privacy. A step towards a better & secure Internet
 
-<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='Logo/8.png'></div>
+<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='Logo/7.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/rajappan)](https://github.com/kaiiyer/rajappan/stargazers)
@@ -13,7 +13,7 @@ The All in one Security project for Digital Privacy. A step towards a better & s
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/rajappan.svg)
 
 
-<b>What is Security?</b>
+### What is Security?
 
 In simple words it is about protection. Earlier, we had physical security to protect our valuable assets in the physical world. But when we move more toward the cyber world, we need a new set of software and tools to protect our data and privacy.
 The three pillars of security are:
@@ -31,7 +31,7 @@ The three pillars of security are:
 >Wanna explore the Rajappan Project? Okay! We got you.
 Click the links below to jump in !!!
 
---> [**Privacy Tools and Digital Security Articles**](guide-art.md)
+--> [**Privacy Guide and Digital Security Articles**](guide-art.md)
 
 --> [**Security Conferences and Podcasts**](conf-pod.md)
 
@@ -41,7 +41,7 @@ Click the links below to jump in !!!
 
 --> [**Blogs & Mailing Lists**](blog.md)
 
---> [Powerful Toolkits](toolkits.md)
+--> [**Powerful Toolkits**](toolkits.md)
 
 ---------
 

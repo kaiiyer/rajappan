@@ -58,5 +58,6 @@ Let's look at some of the resources available today:
 -   [Common Sense](https://www.commonsense.org/education/digital-citizenship/privacy-and-security) - Common Sense is the nation's leading nonprofit organization dedicated to improving the lives of kids and families by providing the trustworthy information, education, and independent voice they need to thrive in the 21st century
 
 -   [Cyberwise](https://www.cyberwise.org/) - CyberWise is a resource site for BUSY grownups who want to help youth use digital media safely and wisely. It is the companion site to Cyber Civics, our comprehensive digital literacy program for middle school
-    
+
+---------
 Thanks for Reading
