@@ -34,6 +34,7 @@
 - [Ak1T4 Medium](https://medium.com/@know.0nix) Blog by WhiteHat Hacker Zen Monk & Bounty Hunter
 - [Security Idiots](https://www.securityidiots.com/) Security blog by Security Idiots
 - [Hackernoon](https://hackernoon.com/tagged/security) According to technologists, "Privacy is a myth." but "Security is non-negotiable."
+- [InfoSec WriteUps](https://medium.com/bugbountywriteup) A collection of awesome write-ups from best hackers in topics ranging from bug bounties, CTFs, vulnhub machines, hardware challenges, real-life encounters and everything else which can help other enthusiasts to learn
 - [SQLi Basic](https://sqli-basic.blogspot.com/) This Blog Just for Educational Purpose. One of the best ways is not responsible for the authorities. Stay With us to Learn Basic SQLi with Manual
 - [Bugbaba Blog](https://bugbaba.blogspot.com/) Discoveries and Writings of security vulnerabilities that I have discovered - Noman Shaikh
 - [Vulnerability-lab](https://vulnerability-lab.com/) Vulnerability research, bug bountiesand vulnerability assessments
