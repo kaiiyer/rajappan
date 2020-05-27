@@ -43,6 +43,8 @@ Click the links below to jump in !!!
 
 --> [**Powerful Toolkits**](toolkits.md)
 
+--> [**Youtube Channels**](video.md)
+
 ---------
 
 <div style='display: block; width: 250px; margin-left: auto; margin-right: auto;'><a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0;' alt='Ethical Design' src='https://ind.ie/ethical-design/images/ethical-design-badge-tiny.svg'></a><p>We practice <strong>Ethical</strong> Design.</p></div>

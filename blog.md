@@ -2,10 +2,12 @@
 
 - [Securityguard Blog](https://blog.it-securityguard.com/) Security blog of Patrik Fehrenbach
 - [BruteLogic](https://brutelogic.com.br/blog/) Brute XSS: Master the art of Cross Site Scripting
+- [Securit.ie](https://securit.ie/blog/) When did you last check your stack?
 - [Philippeharewood Blog](https://philippeharewood.com/) These aren't the access_tokens you're looking for
 - [Bug Bounty Findings by Meals](https://seanmelia.wordpress.com/) The blog- 'Bug Bounty Findings by Meals' by Seanmelia
 - [Respect XSS](https://respectxss.blogspot.com/) The blog- 'Respect XSS' by Ashar Javed
 - [GracefulSecurity](https://www.gracefulsecurity.com/) *Vlogs* by Holly Grace Williams, has thirteen years of experience in leading Information Security teams
+- [Darknet](https://www.darknet.org.uk/) Don't Learn to Hack - Hack to Learn
 - [Whitton](https://whitton.io/) Blog by Jack, Active participant of bug bounty programmes since the middle of 2012
 - [Tisiphone](https://tisiphone.net/) Blog by Lesley Carhart, Full Spectrum Cyber-Warrior Princess, 20+ year IT industry veteran,speaks and writes about digital forensics and incident response, Industrial Control System Security, OSINT, and information security careers
 - [NahamSec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) A list of resources for those interested in getting started in bug bounties
@@ -24,11 +26,12 @@
 - [Mukarram Khalid Blog](https://mukarramkhalid.com/) Security blog by Mukarram Khalid
 - [JubaerAlNazi Blog](https://jubaeralnaziwhitehat.wordpress.com/) JubaerAlNazi – Security Researcher & InfoSec Newbie: Exploiting Machines More Than Minds
 - [Hackaday](https://hackaday.com/) Hackaday serves up Fresh Hacks Every Day from around the Internet
-- [Securityfocus](https://www.securityfocus.com/) A place to come together and share its collected wisdom and knowledge. From original news content to detailed technical papers and guest columnists, we’ve strived to be the community’s source for all things security related
+- [Securityfocus](https://www.securityfocus.com/) A place to come together and share its collected wisdom and knowledge
 - [Packet Storm](https://packetstormsecurity.com/) Exploit the possibilities 
 - [Sectools](https://sectools.org/) CyberSecurity blog by Gordon Lyon a.k.a Fyodor
 - [Detectify Blog](https://labs.detectify.com/) Web Security blog from Detectify, Automated security and asset monitoring for all teams.
 - [Rubidus](https://blog.rubidus.com/) Personal blog by Jonathan Claudius.
+- [Ak1T4 Medium](https://medium.com/@know.0nix) Blog by WhiteHat Hacker Zen Monk & Bounty Hunter
 - [Security Idiots](https://www.securityidiots.com/) Security blog by Security Idiots
 - [Hackernoon](https://hackernoon.com/tagged/security) According to technologists, "Privacy is a myth." but "Security is non-negotiable."
 - [SQLi Basic](https://sqli-basic.blogspot.com/) This Blog Just for Educational Purpose. One of the best ways is not responsible for the authorities. Stay With us to Learn Basic SQLi with Manual
