@@ -31,15 +31,19 @@ The three pillars of security are:
 >Wanna explore the Rajappan Project? Okay! We got you.
 Click the links below to jump in !!!
 
+--> [**Blogs & Mailing Lists**](blog.md)
+
+--> [**Cheatsheets**](cheatsheets.md)
+
+--> [**Cyber Careers**](career.md)
+
+--> [**Cyber Starter Pack**](starter-pack.md)
+
 --> [**Privacy Guide and Digital Security Articles**](guide-art.md)
 
 --> [**Security Conferences and Podcasts**](conf-pod.md)
 
 --> [**Security Books**](books.md)
-
---> [**Cheatsheets**](cheatsheets.md)
-
---> [**Blogs & Mailing Lists**](blog.md)
 
 --> [**Powerful Toolkits**](toolkits.md)
 
