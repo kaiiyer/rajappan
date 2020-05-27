@@ -1,44 +1,37 @@
 ## Blog for Pentesters:
 
 - [Securityguard Blog](https://blog.it-securityguard.com/) Security blog of Patrik Fehrenbach.
-- [Blog](https://blog.innerht.ml/)
-- [Blog](https://brutelogic.com.br/blog/) Security blog of Rodolfo Assis a.k.a. “Brute Logic” (or just “Brute”),a self-taught computer hacker,on Mastering the art of Cross Site Scripting.
-- [Blog](https://klikki.fi/)
-- [Blog](https://philippeharewood.com/) The blog-'These aren't the access_tokens you're looking for'
+- [BruteLogic](https://brutelogic.com.br/blog/) Brute XSS: Master the art of Cross Site Scripting
+- [Blog](https://philippeharewood.com/) These aren't the access_tokens you're looking for
 - [Blog](https://seanmelia.wordpress.com/) The blog- 'Bug Bounty Findings by Meals' by Seanmelia
 - [Blog](https://respectxss.blogspot.com/) The blog-'Respect XSS' by Ashar Javed
 - [Blog](https://www.gracefulsecurity.com/) Blog by Holly Grace Williams,has thirteen years of experience in leading information security teams.
 - [Blog](https://whitton.io/) Blog by Jack,active participant of bug bounty programmes since the middle of 2012
 - [Blog](https://tisiphone.net/) Blog by Lesley Carhart, Full Spectrum Cyber-Warrior Princess, 20+ year IT industry veteran,speaks and writes about digital forensics and incident response, Industrial Control System Security, OSINT, and information security careers
-- [Blog](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
-- [Blog](https://danlec.com/)blog
-- [Blog](https://wehackpeople.tumblr.com/) Tim Roberts (Z4nsh1n) & Brent White (B!TK!LL3R) are Sr. Security Consultants who specialize in Red Team & Social Engineering Assessments.Moved on to www.wehackpeople.com
-- [Blog](https://bitquark.co.uk/blog/) Security and code discussion, with dissections of recent vulnerabilities discovered as part of vendor bug bounty programmes
-- [Blog](https://www.arneswinnen.net/ Arne Swinnen's Security blog-Just Another Infosec Blog
-- [Blog](https://bugbountypoc.com/) - All Bug Bounty POC write ups by Security Researchers.
-- [Blog](https://medium.com/@arbazhussain/) -Security blog by Arbaz Hussain
-- [Blog](https://www.shawarkhan.com/) Shawar Khan, A Security Researcher at HackersRay, Bug Bounty Hunter and Red Team Member at Synack inc.,has over 4 years of experience, identified major security vulnerabilities in the world's well-known companieslisted in over +100 Halls of Fame
-- [Blog](https://blog.kaiiyer.ninja/) - A Blog that cares about your Privacy by Kai Iyer
+- [NahamSec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) A list of resources for those interested in getting started in bug bounties
+- [WeHackPeople](https://wehackpeople.tumblr.com/) Tim Roberts (Z4nsh1n) & Brent White (B!TK!LL3R) are Sr. Security Consultants who specialize in Red Team & Social Engineering Assessments.Moved on to www.wehackpeople.com
+- [BitQuark](https://bitquark.co.uk/blog/) Security and code discussion, with dissections of recent vulnerabilities discovered as part of vendor bug bounty programmes
+- [Arneswinnen](https://www.arneswinnen.net/ Arne Swinnen's Security blog-Just Another Infosec Blog
+- [Bug Bounty POC](https://bugbountypoc.com/) - All Bug Bounty POC write ups by Security Researchers.
+- [Arbazhussain Medium](https://medium.com/@arbazhussain/) -Security blog by Arbaz Hussain
+- [Shawarkhan](https://www.shawarkhan.com/) Shawar Khan, A Security Researcher at HackersRay, Bug Bounty Hunter and Red Team Member at Synack Inc., has over 4 years of experience, identified major security vulnerabilities in the world's well-known companieslisted in over +100 Halls of Fame
+- [Intellectual Ninja](https://blog.kaiiyer.ninja/) - A Blog that cares about your Privacy by Kai Iyer
 - [Blog](https://blog.detectify.com/) - Security blog from Detectify, Automated security and asset monitoring for all teams.
-- [Blog](https://www.rafayhackingarticles.net/)
 - [Blog](https://forum.bugcrowd.com/) Bugcrowd's community forum of researchers and white-hat hackers discussing information security and bug bounty programs.
-- [Blog](https://securitywall.co/blog.html/) Security blog from Securitywall
-- [Blog](https://www.hackerone.com/)blog Security blog from hackerone.com
-- [Blog](https://www.securitytube.net/)
-- [Blog](https://www.gangte.net/ A blog on hacking and cyber security.
+- [Securitywall](https://securitywall.co/blog.html/) Security blog from Securitywall
+- [Hackerone](https://www.hackerone.com/blog) Security blog from Hackerone. Hack for Good
+- [My Experiments with Hacking](https://www.gangte.net/) A blog on hacking and cyber security.
 - [Blog](https://mukarramkhalid.com/) Security blog by Mukarram Khalid
-- [Blog](https://securitytraning.com/)
 - [Blog](https://jubaeralnaziwhitehat.wordpress.com/) JubaerAlNazi – Security Researcher & InfoSec Newbie: Exploiting Machines More Than Minds
 - [Blog](https://hackaday.com/) Hackaday serves up Fresh Hacks Every Day from around the Internet
-- [Blog](https://www.securityfocus.com/) a place to come together and share its collected wisdom and knowledge. From original news content to detailed technical papers and guest columnists, we’ve strived to be the community’s source for all things security related.
-- [Blog](https://packetstormsecurity.com/)
+- [Securityfocus](https://www.securityfocus.com/) A place to come together and share its collected wisdom and knowledge. From original news content to detailed technical papers and guest columnists, we’ve strived to be the community’s source for all things security related
+- [Packet Storm](https://packetstormsecurity.com/) Exploit the possibilities 
 - [Blog](https://www.blackhat.com/) Black Hat is the most technical and relevant information security event series in the world. For more than 20 years, Black Hat Briefings have provided attendees with the very latest in information security research, development, and trends in a strictly vendor-neutral environment
-- [Blog](https://www.metasploit.com/) helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
 - [Blog](https://sectools.org/) CyberSecurity blog by Gordon Lyon a.k.a Fyodor
-- [Blog](https://labs.detectify.com/) Web Security blog from Detectify,Automated security and asset monitoring for all teams.
-- [Blog](https://blog.rubidus.com/) personal blog by Jonathan Claudius.
-- [Blog](https://www.securityidiots.com/) Security blog by Security Idiots
-- [Blog](https://hackernoon.com/) An Independent Tech Media Site for Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts.
+- [Detectify Blog](https://labs.detectify.com/) Web Security blog from Detectify, Automated security and asset monitoring for all teams.
+- [Rubidus](https://blog.rubidus.com/) Personal blog by Jonathan Claudius.
+- [Security Idiots](https://www.securityidiots.com/) Security blog by Security Idiots
+- [Hackernoon](https://hackernoon.com/tagged/security) According to technologists, "Privacy is a myth." but "Security is non-negotiable."
 - [Blog](https://sqli-basic.blogspot.com/) This Blog Just for Educational Purpose. One of the best ways is not responsible for the authorities. Stay With us to Learn Basic SQLi with Manual.
 - [Blog](https://bugbaba.blogspot.com/) Discoveries and Writings of security vulnerabilities that I have discovered - Noman Shaikh
 - [Blog](https://vulnerability-lab.com/) Vulnerability research,bug bountiesand vulnerability assessments

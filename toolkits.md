@@ -15,7 +15,7 @@
 
 -   [The Ultimate List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) Several interesting tools to perform various checks against your browser, connection, emails and so forth.
 
--   [The state of Privacy](http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/) FWIW, *The state of privacy in post-Snowden America* by the [Pew Research Center](https://en.wikipedia.org/wiki/Pew_Research_Center)
+-   [The state of Privacy](http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/) FWIW, The state of privacy in post-Snowden America by the [Pew Research Center](https://en.wikipedia.org/wiki/Pew_Research_Center)
 
 -   [Plato Stanford](https://plato.stanford.edu/entries/it-privacy/) Stanford informative page on IT and Privacy.
 
