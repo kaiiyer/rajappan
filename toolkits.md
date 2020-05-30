@@ -45,3 +45,4 @@
 
 -   [Motherboard](https://motherboard.vice.com/en_us/article/4xby8g/how-to-give-a-digital-security-training) A Practical Checklist For Leading Your First Training. Do you want to teach people about infosec, opsec, and how to stay safe online? Here's where to start.
 
+-   [O&O ShutUp10](https://www.oo-software.com/en/shutup10) Free antispy tool for Windows 10. O&O ShutUp10 presents you with all important settings in one location – you need no previous IT knowledge and there is no need to manually change the Windows 10 system settings. 
