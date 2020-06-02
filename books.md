@@ -72,3 +72,6 @@
 -   [Networks of Control:A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](http://crackedlabs.org/en/networksofcontrol) by Wolfie Christl and Sarah Spiekermann
 
 -   [The complete privacy and security desk reference volume](https://www.amazon.com/Complete-Privacy-Security-Desk-Reference/dp/152277890X) This 500-page textbook by Michael Bazzell & Justin Carroll will explain how to become digitally invisible
+
+---------
+Thanks for Reading

@@ -42,3 +42,6 @@
 ## Mail Lists for Pentesters
 - [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/): A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
 - [Bugtraq Mailing List](https://seclists.org/bugtraq/) - The premier general security mailing list. Vulnerabilities are often announced here first, so check frequently! 
+
+---------
+Thanks for Reading
