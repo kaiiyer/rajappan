@@ -1,8 +1,8 @@
+## Privacy Guides
+
 **It's time to adopt healthy cyber habits and act wisely**
 
 Let's look at some of the resources available today:
-
-## Privacy Guide
 
 -   [Digital Security Guide](https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide) The Motherboard Guide to Not Getting Hacked.
 

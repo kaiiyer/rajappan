@@ -5,6 +5,7 @@ The All in one Security project for Digital Privacy. A step towards a better & s
 <div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='Logo/7.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
+[![Go Report Card](https://goreportcard.com/badge/github.com/kaiiyer/rajappan)](https://goreportcard.com/report/github.com/kaiiyer/rajappan)
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/rajappan)](https://github.com/kaiiyer/rajappan/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/kaiiyer/rajappan.svg)](https://GitHub.com/kaiiyer/rajappan/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/kaiiyer/rajappan.svg)](https://GitHub.com/kaiiyer/rajappan/pull/)

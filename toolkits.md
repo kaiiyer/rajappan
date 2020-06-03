@@ -1,13 +1,13 @@
 
 ### Powerful Tool-kits
 
- -   [Securityplanner](https://securityplanner.org) an extremely easy to use and very informative website to help you improve your online safety.
+ -  [Securityplanner](https://securityplanner.org) an extremely easy to use and very informative website to help you improve your online safety.
 
- -   [Twofactorauth](https://twofactorauth.org) shows you how to enable [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication) for many services.
+ -  [Twofactorauth](https://twofactorauth.org) shows you how to enable [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication) for many services.
 
- -   [Haveibeenpwned](https://haveibeenpwned.com) helps you find out if your details were ever leaked. You'll be fine. NOT.
+ -  [Haveibeenpwned](https://haveibeenpwned.com) helps you find out if your details were ever leaked. You'll be fine. NOT.
 
- -   [Webcensus](https://webtransparency.cs.princeton.edu/webcensus/) Informative census about tracking and many other issues I've discussed in this post.
+ -  [Webcensus](https://webtransparency.cs.princeton.edu/webcensus/) Informative census about tracking and many other issues I've discussed in this post.
 
 -   [Webtap](https://webtap.princeton.edu) Princeton's Web Transparency and Accountability site.
 
@@ -37,9 +37,9 @@
 
 -   [Data Security Exchange](https://www.digitalsecurityexchange.org/) Civil society organizations face several different threats. We link them with digital security providers to help. Keeping US civil society safe from digital attacks. 
 
--    [Webtransparency](https://webtransparency.cs.princeton.edu/no_boundaries/session_replay_sites.html) a list of websites that steal your sensitive data (such as usernames and passwords) for commercial purposes.
+-   [Webtransparency](https://webtransparency.cs.princeton.edu/no_boundaries/session_replay_sites.html) a list of websites that steal your sensitive data (such as usernames and passwords) for commercial purposes.
 
- -   [Nomoreransom](https://www.nomoreransom.org/en/index.html) ransomware is malware that locks your computer and mobile devices or encrypts your electronic files. When this happens, you can't get to the data unless you pay a ransom. However this is not guaranteed and you should never pay!
+ -  [Nomoreransom](https://www.nomoreransom.org/en/index.html) ransomware is malware that locks your computer and mobile devices or encrypts your electronic files. When this happens, you can't get to the data unless you pay a ransom. However this is not guaranteed and you should never pay!
 
 -   [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) A worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide. 
 

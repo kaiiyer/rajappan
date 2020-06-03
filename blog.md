@@ -1,4 +1,4 @@
-## Blog for Pentesters:
+## Blog for Pentesters
 
 - [Securityguard Blog](https://blog.it-securityguard.com/) Security blog of Patrik Fehrenbach
 - [BruteLogic](https://brutelogic.com.br/blog/) Brute XSS: Master the art of Cross Site Scripting
