@@ -11,6 +11,7 @@
 - [Whitton](https://whitton.io/) Blog by Jack, Active participant of bug bounty programmes since the middle of 2012
 - [Tisiphone](https://tisiphone.net/) Blog by Lesley Carhart, Full Spectrum Cyber-Warrior Princess, 20+ year IT industry veteran,speaks and writes about digital forensics and incident response, Industrial Control System Security, OSINT, and information security careers
 - [NahamSec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) A list of resources for those interested in getting started in bug bounties
+- [DevSecOps](https://www.devsecops.org/) An informational site for security and business practitioners looking for innovative ways to incorporate security at scale
 - [WeHackPeople](https://wehackpeople.tumblr.com/) Tim Roberts (Z4nsh1n) & Brent White (B!TK!LL3R) are Sr. Security Consultants who specialize in Red Team & Social Engineering Assessments. Moved [here](www.wehackpeople.com)
 - [BitQuark](https://bitquark.co.uk/blog/) Security and code discussion, with dissections of recent vulnerabilities discovered as part of vendor bug bounty programmes
 - [Arneswinnen](https://www.arneswinnen.net/) Arne Swinnen's Security blog-Just Another Infosec Blog
