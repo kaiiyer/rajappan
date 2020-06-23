@@ -2,9 +2,7 @@
 
 Channels shared by Security Pros where they upload their Video POCs
 
-- [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT/about)
-
-- [Devil Killer](https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg/about)
+- [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT/about) is the most technical and relevant information security event series in the world
 
 - [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
@@ -29,6 +27,8 @@ Channels shared by Security Pros where they upload their Video POCs
 - [ ErrOr SquaD](https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg)
 
 - [Bhargav Tandel](https://www.youtube.com/user/bhargavtandel/videos)
+
+- [Devil Killer](https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg/about)
 
 - [ Bug Bounty Public Disclosure](https://www.youtube.com/channel/UCNRM4GH-SD85WCSqeSb4xUA)
 
