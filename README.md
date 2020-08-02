@@ -14,7 +14,6 @@ The All in one Security project for Digital Privacy. A step towards a better & s
 [![GitHub license](https://img.shields.io/github/license/kaiiyer/rajappan)](https://github.com/kaiiyer/rajappan/blob/master/LICENSE)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/rajappan.svg)
 
-
 ### What is Security?
 
 In simple words it is about protection. Earlier, we had physical security to protect our valuable assets in the physical world. But when we move more toward the cyber world, we need a new set of software and tools to protect our data and privacy.
@@ -52,5 +51,5 @@ Click the links below to jump in !!!
 --> [**Youtube Channels**](video.md)
 
 ---------
-
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fkaiiyer%2Frajappan" alt="Hits">
 <div style='display: block; width: 250px; margin-left: auto; margin-right: auto;'><a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0;' alt='Ethical Design' src='https://ind.ie/ethical-design/images/ethical-design-badge-tiny.svg'></a><p>We practice <strong>Ethical</strong> Design.</p></div>
