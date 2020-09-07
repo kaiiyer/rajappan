@@ -1,4 +1,4 @@
-# BlueTeam(Threat Management and Response)
+# BlueTeam(Threat Detection and Response)
 
 -------------
 
