@@ -24,24 +24,24 @@ The three pillars of security are:
 >Wanna explore the Rajappan Project? Okay! We got you.
 Click the links below to jump in !!!
 
---> [**Blogs & Mailing Lists**](blog.md)
+--> [**Blogs & Mailing Lists**](Resources/blog.md)
 
---> [**Cheatsheets**](cheatsheets.md)
+--> [**Cheatsheets**](Resources/cheatsheets.md)
 
---> [**Cyber Careers**](career.md)
+--> [**Cyber Careers**](Resources/career.md)
 
---> [**Cyber Starter Pack**](starter-pack.md)
+--> [**Cyber Starter Pack**](Resources/starter-pack.md)
 
---> [**Privacy Guide and Digital Security Articles**](guide-art.md)
+--> [**Privacy Guide and Digital Security Articles**](Resources/guide-art.md)
 
---> [**Security Conferences and Podcasts**](conf-pod.md)
+--> [**Security Conferences and Podcasts**](Resources/conf-pod.md)
 
---> [**Security Books**](books.md)
+--> [**Security Books**](Resources/books.md)
 
---> [**Powerful Toolkits**](toolkits.md)
+--> [**Powerful Toolkits**](Resources/toolkits.md)
 
---> [**Youtube Channels**](video.md)
+--> [**Youtube Channels**](Resources/video.md)
 
 ---------
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fkaiiyer%2Frajappan" alt="Hits">
+
 <div style='display: block; width: 250px; margin-left: auto; margin-right: auto;'><a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0;' alt='Ethical Design' src='https://ind.ie/ethical-design/images/ethical-design-badge-tiny.svg'></a><p>We practice <strong>Ethical</strong> Design.</p></div>
