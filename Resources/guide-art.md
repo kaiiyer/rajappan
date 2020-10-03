@@ -24,7 +24,9 @@ Let's look at some of the resources available today:
 
 -   [Don't like being tracked online? Set up a VPN for free How to set up a VPN in 10 minutes for free](https://medium.freecodecamp.org/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907) How to set-up a VPN in 5 minutes for free and why you urgently need one.
 
--   [Equality Labs Privacy + Security Curriculum](https://www.equalitylabs.org/curriculum/) This curriculum was co-developed by qualified digital security trainers of color who have experience working in vulnerable communities all around the world. 
+-   [Equality Labs Privacy + Security Curriculum](https://www.equalitylabs.org/curriculum/) This curriculum was co-developed by qualified digital security trainers of color who have experience working in vulnerable communities all around the world.
+
+-   [Kidglove](https://kidglove.in) This is an initiative by Kerala Police and [ISRA](is-ra.org) for providing cyber lessons for students, tool kit for teachers, advice for parents to help children to have a safe online browsing.
 
 ---------
 
