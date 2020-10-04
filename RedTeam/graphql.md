@@ -13,18 +13,19 @@
 - [Wallarm](https://lab.wallarm.com/graphql-batching-attack/?fbclid=IwAR0Wt4EbuE_wtTPEKqWSSdkgpjI-4p6xMHQczPOtJrSlP5Q1BShKLnx4yx4) - GraphQl batching attack
 - [Graphql-js](https://www.howtographql.com/graphql-js/1-getting-started/) - Getting started to GraphQl
 - [Hasura](https://hasura.io/learn/graphql/intro-graphql/introduction/) - Intro to graphql
-- [graphQl learn](https://graphql.org/learn/) - Graphql Learn
+- [GraphQL learn](https://graphql.org/learn/) - Graphql Learn
 
 ## Labs:
 * [Graphql Security labs](https://github.com/david3107/graphql-security-labs)
 * [Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
 * [GraphQL injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection)
-* Graphql practicing:
+
+ **Graphql practicing:**
   * [GraphiQL](https://metaphysics-production.artsy.net/)
   * [GraphQL Playground](https://api.graphql.jobs/)
 
-## HackerOne GraphQL ctf (BugDB ctf)
-[Capture the Flag challenges](https://www.hackerone.com/blog/graphql-week-hacker101-capture-flag-challenges)
+## HackerOne GraphQL CTF (BugDB CTF)
+- [Capture the Flag challenges](https://www.hackerone.com/blog/graphql-week-hacker101-capture-flag-challenges)
 - BugDB v1 - https://ctf.hacker101.com/ctf/launch/18
 - BugDB v2 - https://ctf.hacker101.com/ctf/launch/19
 - BugDB v3 - https://ctf.hacker101.com/ctf/launch/20
