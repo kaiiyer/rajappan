@@ -24,7 +24,7 @@
   * [GraphQL Playground](https://api.graphql.jobs/)
 
 ## HackerOne GraphQL ctf (BugDB ctf)
-- [Capture the Flag challenges](https://www.hackerone.com/blog/graphql-week-hacker101-capture-flag-challenges)
+[Capture the Flag challenges](https://www.hackerone.com/blog/graphql-week-hacker101-capture-flag-challenges)
 - BugDB v1 - https://ctf.hacker101.com/ctf/launch/18
 - BugDB v2 - https://ctf.hacker101.com/ctf/launch/19
 - BugDB v3 - https://ctf.hacker101.com/ctf/launch/20
