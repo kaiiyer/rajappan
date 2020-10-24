@@ -13,3 +13,5 @@
 - [SQL injection](sqli.md)
 
 - [Leaks](leakix.net/)
+
+Bug Bounty Tips: https://www.infosecmatter.com/bug-bounty-tips-8-oct-14/#5_chaining_file_uploads_with_other_vulns
