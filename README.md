@@ -14,11 +14,6 @@ The All in one Security project for Digital Privacy. A step towards a better & s
 [![GitHub license](https://img.shields.io/github/license/kaiiyer/rajappan)](https://github.com/kaiiyer/rajappan/blob/master/LICENSE)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/rajappan.svg)
 
-### What is Security?
-
-In simple words it is about protection. Earlier, we had physical security to protect our valuable assets in the physical world. But when we move more toward the cyber world, we need a new set of software and tools to protect our data and privacy.
-The three pillars of security are:
-
 ---------
 
 >Wanna explore the Rajappan Project? Okay! We got you.
