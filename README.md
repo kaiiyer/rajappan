@@ -2,7 +2,7 @@
 
 The All in one Security project for Digital Privacy. A step towards a better & secure Internet
 
-<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='Logo/7.png'></div>
+<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='.logo/7.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.rajappan)
@@ -19,23 +19,23 @@ The All in one Security project for Digital Privacy. A step towards a better & s
 >Wanna explore the Rajappan Project? Okay! We got you.
 Click the links below to jump in !!!
 
---> [**Blogs & Mailing Lists**](Resources/blog.md)
+--> [**Blogs & Mailing Lists**](learning-path/blog.md)
 
---> [**Cheatsheets**](Resources/cheatsheets.md)
+--> [**Cheatsheets**](learning-path/cheatsheets.md)
 
---> [**Cyber Careers**](Resources/career.md)
+--> [**Cyber Careers**](learning-path/career.md)
 
---> [**Cyber Starter Pack**](Resources/starter-pack.md)
+--> [**Cyber Starter Pack**](learning-path/starter-pack.md)
 
---> [**Privacy Guide and Digital Security Articles**](Resources/guide-art.md)
+--> [**Privacy Guide and Digital Security Articles**](learning-path/guide-art.md)
 
---> [**Security Conferences and Podcasts**](Resources/conf-pod.md)
+--> [**Security Conferences and Podcasts**](learning-path/conf-pod.md)
 
---> [**Security Books**](Resources/books.md)
+--> [**Security Books**](learning-path/books.md)
 
---> [**Powerful Toolkits**](Resources/toolkits.md)
+--> [**Powerful Toolkits**](learning-path/toolkits.md)
 
---> [**Youtube Channels**](Resources/video.md)
+--> [**Youtube Channels**](learning-path/video.md)
 
 ---------
 
