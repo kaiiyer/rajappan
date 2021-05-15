@@ -1,6 +1,6 @@
 # The Rajappan Project
 
-The All in one Security project for Digital Privacy. A step towards a better & secure Internet
+An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
 
 <div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='.logo/7.png'></div>
 
