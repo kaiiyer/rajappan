@@ -5,6 +5,7 @@ An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
 <div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='.logo/7.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.rajappan)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kaiiyer/rajappan)](https://goreportcard.com/report/github.com/kaiiyer/rajappan)
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/rajappan)](https://github.com/kaiiyer/rajappan/stargazers)
@@ -18,6 +19,24 @@ An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
 
 >Wanna explore the Rajappan Project? Okay! We got you.
 Click the links below to jump in !!!
+
+<details>
+<summary>Infosec Resources for Red/Blue/Purple Teams</summary>
+<br>
+
+--> [**Red Team**](infosec/RedTeam)
+
+--> [**Blue Team**](infosec/BlueTeam)
+
+--> [**Purple Team**](infosec/PurpleTeam/README.md)
+
+--> [**OSINT**](osint/README.md)
+
+</details>
+
+<details>
+<summary>Learning Path</summary>
+<br>
 
 --> [**Blogs & Mailing Lists**](learning-path/blog.md)
 
@@ -36,6 +55,17 @@ Click the links below to jump in !!!
 --> [**Powerful Toolkits**](learning-path/toolkits.md)
 
 --> [**Youtube Channels**](learning-path/video.md)
+</details>
+
+<details>
+<summary>Privacy</summary>
+<br>
+
+--> [**Privacy Resources**](privacy/README.md)
+
+</details>
+
+
 
 ---------
 

@@ -15,5 +15,4 @@
 
 - [SIEM & Log Management](siem.md)
 
-- [OSINT](osint.md)
 
