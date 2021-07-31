@@ -6,7 +6,14 @@
 
 - [Boss of the SOC](https://www.splunk.com/en_us/blog/tag/boss-of-the-soc.html) - BOTS is a blue-team, jeopardy-style, capture-the-flag-esque (CTF) activity where participants leverage Splunk's Security Suite and other resources to answer a variety of questions about the type of real-world security incidents
 
+- [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
+
+- [Vectr.io](https://vectr.io) - Purple Teams through VECTR™ generates success defense metrics and help align Red and Blue Teams towards the same mission: protecting the organization by discovering and plugging detection gaps
+
 ## Log Management
 
 - [Fluentd](https://www.fluentd.org) - Fluentd is an open source data collector, which lets you unify the data collection and consumption for a better use and understanding of data.
 
+ - [Graylog](https://www.graylog.org) - Graylog is a leading centralized log management solution for capturing, storing, and enabling real-time analysis of terabytes of machine data
+
+ - [MinIO](https://min.io) - MinIO is the world's fastest object storage server. With READ/WRITE speeds of 183 GB/s and 171 GB/s on standard hardware
