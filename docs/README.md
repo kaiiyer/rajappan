@@ -18,11 +18,8 @@ An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
 ---------
 
 >Wanna explore the Rajappan Project? Okay! We got you.
-Click the links below to jump in !!!
 
-<details>
-<summary>Infosec Resources for Red/Blue/Purple Teams</summary>
-<br>
+**Infosec Resources for Red/Blue/Purple Teams**
 
 --> [**Red Team**](infosec/RedTeam)
 
@@ -32,11 +29,7 @@ Click the links below to jump in !!!
 
 --> [**OSINT**](infosec/osint/README.md)
 
-</details>
-
-<details>
-<summary>Learning Path</summary>
-<br>
+**Learning Path**
 
 --> [**Blogs & Mailing Lists**](learning-path/blog.md)
 
@@ -55,16 +48,10 @@ Click the links below to jump in !!!
 --> [**Powerful Toolkits**](learning-path/toolkits.md)
 
 --> [**Youtube Channels**](learning-path/video.md)
-</details>
 
-<details>
-<summary>Privacy</summary>
-<br>
+**Privacy**
 
 --> [**Privacy Resources**](privacy/README.md)
-
-</details>
-
 
 
 ---------
