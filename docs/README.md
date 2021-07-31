@@ -2,9 +2,10 @@
 
 An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
 
-<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='docs/7.png'></div>
+<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='https://user-images.githubusercontent.com/24914913/127732050-bd348cc2-5004-4640-a360-1458421128ab.png'> </div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.rajappan)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kaiiyer/rajappan)](https://goreportcard.com/report/github.com/kaiiyer/rajappan)
