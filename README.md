@@ -28,7 +28,7 @@ Click the links below to jump in !!!
 
 --> [**Purple Team**](infosec/PurpleTeam/README.md)
 
---> [**OSINT**](infosec/osint/README.md)
+--> [**OSINT**](infosec/OSINT/README.md)
 
 </details>
 
