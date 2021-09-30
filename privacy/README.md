@@ -42,3 +42,7 @@ Here are some great links for websites and settings that you can enforce to enfo
 
 
 - [Ghostery](https://www.ghostery.com/) helps you browse smarter by giving you control over ads and tracking technologies to speed up page loads, eliminate clutter, and protect your data.
+
+- [How to remove third party access from google account.](https://support.google.com/accounts/answer/3466521?hl=en)
+
+-
