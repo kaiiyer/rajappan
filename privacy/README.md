@@ -42,3 +42,13 @@ Here are some great links for websites and settings that you can enforce to enfo
 
 
 - [Ghostery](https://www.ghostery.com/) helps you browse smarter by giving you control over ads and tracking technologies to speed up page loads, eliminate clutter, and protect your data.
+
+-[WhatsApp’s Privacy Policy, The privacy and security of your personal messaging ](https://faq.whatsapp.com/general/security-and-privacy/answering-your-questions-about-whatsapps-privacy-policy/?lang=en)
+
+-[Telegram Privacy Policy, 4. Keeping Your Personal Data Safe] (https://telegram.org/privacy#10-deleting-data)
+
+-[The No More Ransom Project] (https://www.nomoreransom.org/en/index.html)
+
+-[The Best Password Managers for 2021] (https://in.pcmag.com/password-managers/36444/the-best-password-managers-for-2020)
+
+-[Are free VPNs safe? 7 things to know before using free VPNs] (https://us.norton.com/internetsecurity-privacy-are-free-vpns-safe.html)
