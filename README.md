@@ -1,6 +1,6 @@
 # The Rajappan Project
 
-An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
+An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVATE FUTURE
 
 <div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='docs/7.png'></div>
 
@@ -15,8 +15,8 @@ An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
 
 ---------
 
->Wanna explore the Rajappan Project? Okay! We got you.
-Click the links below to jump in !!!
+> Do you want to learn more about the Rajappan Project? Okay! We've got you covered.
+Click on the links below to get started!!!
 
 <details open>
 <summary>Infosec Resources for Red/Blue/Purple Teams</summary>
