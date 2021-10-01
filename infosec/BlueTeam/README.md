@@ -11,8 +11,8 @@
 
 -------------
 
-## Threat Detection and Response
+## Detection and Response
 
-- [SIEM & Log Management](siem.md)
+- [Security Operations](secops.md)
 
 
