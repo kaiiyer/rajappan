@@ -2,7 +2,7 @@
 
 Channels shared by Security Pros where they upload their Video POCs
 
-- [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT/about) is the most technical and relevant information security event series in the world
+- [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT/about)
 
 - [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
