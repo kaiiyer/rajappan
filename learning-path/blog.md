@@ -18,7 +18,7 @@
 - [Bug Bounty POC](https://bugbountypoc.com/) - All Bug Bounty POC write ups by Security Researchers
 - [Arbazhussain Medium](https://medium.com/@arbazhussain/) -Security blog by Arbaz Hussain
 - [Shawarkhan](https://www.shawarkhan.com/) Shawar Khan, A Security Researcher, Bug Bounty Hunter and Red Team Member, has identified major security vulnerabilities in the world's well-known companies & listed in over +100 Halls of Fame
-- [Intellectual Ninja](https://blog.kaiiyer.ninja/) - A Blog that cares about your Privacy by Kai Iyer
+- [Intellectual Ninja](https://blog.kaiiyer.co/) - A Blog that cares about your Privacy by Kai Iyer
 - [Detectify](https://blog.detectify.com/) - Security blog from Detectify, Automated security and asset monitoring for all teams.
 - [Bugcrowd](https://forum.bugcrowd.com/) Bugcrowd's community forum of researchers and white-hat hackers discussing information security and bug bounty programs.
 - [Securitywall](https://securitywall.co/blog.html/) Security blog from Securitywall

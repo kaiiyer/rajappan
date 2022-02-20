@@ -2,7 +2,7 @@
 
 An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVATE FUTURE
 
-<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='docs/7.png'></div>
+<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='docs/logo.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.rajappan)
