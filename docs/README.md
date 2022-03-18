@@ -30,27 +30,27 @@ Click on the links below to get started!!!
 
 **Learning Path**
 
---> [**Blogs & Mailing Lists**](learning-path/blog.md)
+--> [**Blogs & Mailing Lists**](/learning-path/blog.md)
 
---> [**Cheatsheets**](learning-path/cheatsheets.md)
+--> [**Cheatsheets**](/learning-path/cheatsheets.md)
 
---> [**Cyber Careers**](learning-path/career.md)
+--> [**Cyber Careers**](/learning-path/career.md)
 
---> [**Cyber Starter Pack**](learning-path/starter-pack.md)
+--> [**Cyber Starter Pack**](/learning-path/starter-pack.md)
 
---> [**Privacy Guide and Digital Security Articles**](learning-path/guide-art.md)
+--> [**Privacy Guide and Digital Security Articles**](/learning-path/guide-art.md)
 
---> [**Security Conferences and Podcasts**](learning-path/conf-pod.md)
+--> [**Security Conferences and Podcasts**](/learning-path/conf-pod.md)
 
---> [**Security Books**](learning-path/books.md)
+--> [**Security Books**](/learning-path/books.md)
 
---> [**Powerful Toolkits**](learning-path/toolkits.md)
+--> [**Powerful Toolkits**](/learning-path/toolkits.md)
 
---> [**Youtube Channels**](learning-path/video.md)
+--> [**Youtube Channels**](/learning-path/video.md)
 
 **Privacy**
 
---> [**Privacy Resources**](privacy/README.md)
+--> [**Privacy Resources**](/privacy/README.md)
 
 
 ---------
