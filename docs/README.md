@@ -20,13 +20,13 @@ Click on the links below to get started!!!
 
 **Infosec Resources for Red/Blue/Purple Teams**
 
---> [**Red Team**](infosec/RedTeam)
+--> [**Red Team**](/infosec/RedTeam)
 
---> [**Blue Team**](infosec/BlueTeam)
+--> [**Blue Team**](/infosec/BlueTeam)
 
---> [**Purple Team**](infosec/PurpleTeam/README.md)
+--> [**Purple Team**](/infosec/PurpleTeam/README.md)
 
---> [**OSINT**](infosec/osint/README.md)
+--> [**OSINT**](/infosec/osint/README.md)
 
 **Learning Path**
 
