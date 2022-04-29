@@ -1,7 +1,7 @@
 import sys, re
 import requests
 
-f = open('dan.txt','r')
+f = open('log.txt','r')
 text = f.read()
 ips = [] 
 x = []
