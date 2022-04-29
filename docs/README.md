@@ -20,37 +20,37 @@ Click on the links below to get started!!!
 
 **Infosec Resources for Red/Blue/Purple Teams**
 
---> [**Red Team**](infosec/RedTeam)
+--> [**Red Team**](/infosec/RedTeam)
 
---> [**Blue Team**](infosec/BlueTeam)
+--> [**Blue Team**](/infosec/BlueTeam)
 
---> [**Purple Team**](infosec/PurpleTeam/README.md)
+--> [**Purple Team**](/infosec/PurpleTeam/README.md)
 
---> [**OSINT**](infosec/osint/README.md)
+--> [**OSINT**](/infosec/osint/README.md)
 
 **Learning Path**
 
---> [**Blogs & Mailing Lists**](learning-path/blog.md)
+--> [**Blogs & Mailing Lists**](/learning-path/blog.md)
 
---> [**Cheatsheets**](learning-path/cheatsheets.md)
+--> [**Cheatsheets**](/learning-path/cheatsheets.md)
 
---> [**Cyber Careers**](learning-path/career.md)
+--> [**Cyber Careers**](/learning-path/career.md)
 
---> [**Cyber Starter Pack**](learning-path/starter-pack.md)
+--> [**Cyber Starter Pack**](/learning-path/starter-pack.md)
 
---> [**Privacy Guide and Digital Security Articles**](learning-path/guide-art.md)
+--> [**Privacy Guide and Digital Security Articles**](/learning-path/guide-art.md)
 
---> [**Security Conferences and Podcasts**](learning-path/conf-pod.md)
+--> [**Security Conferences and Podcasts**](/learning-path/conf-pod.md)
 
---> [**Security Books**](learning-path/books.md)
+--> [**Security Books**](/learning-path/books.md)
 
---> [**Powerful Toolkits**](learning-path/toolkits.md)
+--> [**Powerful Toolkits**](/learning-path/toolkits.md)
 
---> [**Youtube Channels**](learning-path/video.md)
+--> [**Youtube Channels**](/learning-path/video.md)
 
 **Privacy**
 
---> [**Privacy Resources**](privacy/README.md)
+--> [**Privacy Resources**](/privacy/README.md)
 
 
 ---------
