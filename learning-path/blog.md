@@ -30,8 +30,8 @@
 - [Securityfocus](https://www.securityfocus.com/) A place to come together and share its collected wisdom and knowledge
 - [Packet Storm](https://packetstormsecurity.com/) Exploit the possibilities 
 - [Sectools](https://sectools.org/) CyberSecurity blog by Gordon Lyon a.k.a Fyodor
-- [Detectify Blog](https://labs.detectify.com/) Web Security blog from Detectify, Automated security and asset monitoring for all teams.
-- [Rubidus](https://blog.rubidus.com/) Personal blog by Jonathan Claudius.
+- [Detectify Blog](https://labs.detectify.com/) Web Security blog from Detectify, Automated security and asset monitoring for all teams
+- [Rubidus](https://blog.rubidus.com/) Personal blog by Jonathan Claudius
 - [Ak1T4 Medium](https://medium.com/@know.0nix) Blog by WhiteHat Hacker Zen Monk & Bounty Hunter
 - [Security Idiots](https://www.securityidiots.com/) Security blog by Security Idiots
 - [Hackernoon](https://hackernoon.com/tagged/security) According to technologists, "Privacy is a myth." but "Security is non-negotiable."
@@ -41,8 +41,12 @@
 - [Vulnerability-lab](https://vulnerability-lab.com/) Vulnerability research, bug bountiesand vulnerability assessments
 
 ## Mail Lists for Pentesters
-- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/): A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
+- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/): A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community
 - [Bugtraq Mailing List](https://seclists.org/bugtraq/) - The premier general security mailing list. Vulnerabilities are often announced here first, so check frequently! 
+
+## Blog for Malware Analysis & Reverse Engineering
+- [MalGamy](https://malgamy.github.io) - A blog for case study and in-depth analysis of malware
+
 
 ---------
 Thanks for Reading
