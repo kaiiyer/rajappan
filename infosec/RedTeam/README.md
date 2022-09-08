@@ -26,3 +26,9 @@
 
 [EXPLOIT.EDUCATION](https://exploit.education/): exploit.education provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues
 
+### Active Directory
+
+- [harmj0y.net](https://blog.harmj0y.net/category/activedirectory/)
+- [adsecurity](https://adsecurity.org/)
+- [dirkjanm.io](https://dirkjanm.io/)
+- [0xdf.gitlab.io](https://0xdf.gitlab.io/tags.html#active-directory)
