@@ -22,7 +22,7 @@ Here are some great links for websites and settings that you can enforce to enfo
 
 - [To actually turn off location tracking, go to “Web & App Activity”](https://myaccount.google.com/activitycontrols/search)
 
-- Visit [this](https://www.google.com/locationhistory/delete) link to delete your main location history from google
+- Visit [Location History Delete](https://www.google.com/locationhistory/delete) to delete your main location history from google
 
 - [Apple has a privacy website, where you can review/download all the data Apple has about you](https://privacy.apple.com/)
 
@@ -32,10 +32,12 @@ Here are some great links for websites and settings that you can enforce to enfo
 
 - [WhatsApp’s Privacy Policy, The privacy and security of your personal messaging](https://faq.whatsapp.com/general/security-and-privacy/answering-your-questions-about-whatsapps-privacy-policy/?lang=en)
 
-- [Telegram Privacy Policy, 4. Keeping Your Personal Data Safe] (https://telegram.org/privacy#10-deleting-data)
+- [Telegram Privacy Policy for keeping Your Personal Data Safe] (https://telegram.org/privacy#10-deleting-data)
 
 - [The No More Ransom Project] (https://www.nomoreransom.org/en/index.html)
 
 - [The Best Password Managers for 2021] (https://in.pcmag.com/password-managers/36444/the-best-password-managers-for-2020)
 
 - [Are free VPNs safe? 7 things to know before using free VPNs] (https://us.norton.com/internetsecurity-privacy-are-free-vpns-safe.html)
+
+-   [The Ultimate List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) Several interesting tools to perform various checks against your browser, connection, emails and so forth.
