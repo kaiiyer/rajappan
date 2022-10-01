@@ -58,3 +58,6 @@
 
 - [All in one OSINT resource you'll ever need](https://start.me/p/L1rEYQ/osint4all)
 
+# Tools
+
+- [Digital Forensics Incident Response](https://www.dfir.training/tools)
