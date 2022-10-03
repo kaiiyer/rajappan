@@ -9,6 +9,9 @@
 
 - [SANS Internet Storm Center](https://isc.sans.edu/) - ISC provides a free analysis and warning service to thousands of Internet users and organizations, and is actively working with Internet Service Providers to fight back against the most malicious attackers.
 
+- [DevSecOps](https://www.devsecops.org/) An informational site for security and business practitioners looking for innovative ways to incorporate security at scale
+
+
 -------------
 
 ## Threat Intelligence
@@ -22,12 +25,6 @@
 - [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) by JPCERT
 
 
-## Threat Hunting
-
-- [Emerging Threats](https://doc.emergingthreats.net/bin/view/Main/WebHome) - Emerging Threats Rule Documentation Wiki containing all current rules
-
- - [fleet](fleetdm.com) - Open source device management, built on osquery
-
 ## SIEM
 
 - [Grafana](https://grafana.com) - Grafana is the open source analytics & monitoring solution for every database
@@ -36,9 +33,16 @@
 
 - [Boss of the SOC](https://www.splunk.com/en_us/blog/tag/boss-of-the-soc.html) - BOTS is a blue-team, jeopardy-style, capture-the-flag-esque (CTF) activity where participants leverage Splunk's Security Suite and other resources to answer a variety of questions about the type of real-world security incidents
 
+## Detection Engineering & Threat Hunting
+
 - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
 
 - [Vectr.io](https://vectr.io) - Purple Teams through VECTR™ generates success defense metrics and help align Red and Blue Teams towards the same mission: protecting the organization by discovering and plugging detection gaps
+
+- [Emerging Threats](https://doc.emergingthreats.net/bin/view/Main/WebHome) - Emerging Threats Rule Documentation Wiki containing all current rules
+
+ - [fleet](fleetdm.com) - Open source device management, built on osquery
+
 
 ## Log Management & Object Storage
 
@@ -61,3 +65,4 @@
 ## Tools
 
 - [Digital Forensics and Incident Response](https://www.dfir.training/tools)
+

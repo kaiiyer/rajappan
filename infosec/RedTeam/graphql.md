@@ -29,6 +29,7 @@
 - BugDB v1 - https://ctf.hacker101.com/ctf/launch/18
 - BugDB v2 - https://ctf.hacker101.com/ctf/launch/19
 - BugDB v3 - https://ctf.hacker101.com/ctf/launch/20
+
 ## A collective list of public GraphQL APIs
 [Apis guru](https://github.com/APIs-guru/graphql-apis) : Public graphql Apis
 
