@@ -1,3 +1,10 @@
+# Privacy Starters
+
+--> [**Privacy Guides**](guide-art.md)
+
+--> [**Tool-kits**](toolkits.md)
+
+
 Here are some great links for websites and settings that you can enforce to enforce stringer Internet data privacy. Please spend some time becoming familiar with them.
 
 - [Restrict your Facebook ad settings](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)

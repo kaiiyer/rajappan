@@ -15,45 +15,39 @@ An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVAT
 
 ---------
 
-> Do you want to learn more about the Rajappan Project? Okay! We've got you covered.
-Click on the links below to get started!!!
+> Expand the topics below to dive in!!!
 
 <details open>
 <summary>Infosec Resources for Red/Blue/Purple Teams</summary>
 <br>
 
---> [**Red Team**](infosec/RedTeam)
+--> [**Red Team**](infosec/RedTeam/README.md)
 
---> [**Blue Team**](infosec/BlueTeam)
+--> [**Blue Team**](infosec/BlueTeam/README.md)
 
 --> [**Purple Team**](infosec/PurpleTeam/README.md)
-
---> [**OSINT**](infosec/OSINT/README.md)
 
 </details>
 
 <details>
-<summary>Learning Path</summary>
+<summary>Explore the Project</summary>
 <br>
 
---> [**Blogs & Mailing Lists**](learning-path/blog.md)
+[Dive In](explore/README.md)
 
---> [**Cheatsheets**](learning-path/cheatsheets.md)
+--> [**Cyber Starter Pack**](explore/starter-pack.md)
 
---> [**Cyber Careers**](learning-path/career.md)
+--> [**Security Books**](explore/books.md)
 
---> [**Cyber Starter Pack**](learning-path/starter-pack.md)
+--> [**Cyber Careers**](explore/career.md)
 
---> [**Privacy Guide and Digital Security Articles**](learning-path/guide-art.md)
+--> [**Security Conferences and Podcasts**](explore/conf-pod.md)
 
---> [**Security Conferences and Podcasts**](learning-path/conf-pod.md)
+--> [**Security YT Channels**](explore/video.md)
 
---> [**Security Books**](learning-path/books.md)
-
---> [**Powerful Toolkits**](learning-path/toolkits.md)
-
---> [**Youtube Channels**](learning-path/video.md)
 </details>
+
+
 
 <details>
 <summary>Privacy</summary>

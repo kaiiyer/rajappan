@@ -47,23 +47,23 @@
 
 -   [The Shallows](https://www.nytimes.com/2010/06/06/books/review/Lehrer-t.html) by Nicholas Carr
 
-- [Tangled Web](https://www.nostarch.com/tangledweb) by By Michal Zalewski
+-   [Tangled Web](https://www.nostarch.com/tangledweb) by By Michal Zalewski
 
 -   [The Art of Invisibility](https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online/) by Kevin Mitnick
 
 -   [Little Brother](https://craphound.com/littlebrother/about/) by Cory Doctorow
 
-- [Advanced Penetration Testing for Highly-Secured Environments](http://www.packtpub.com/networking-and-servers/advanced-penetration-testing-highly-secured-environments-ultimate-security-gu) by By Lee Allen, 2012
+-   [Advanced Penetration Testing for Highly-Secured Environments](http://www.packtpub.com/networking-and-servers/advanced-penetration-testing-highly-secured-environments-ultimate-security-gu) by By Lee Allen, 2012
 
 -   [Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks](https://www.nostarch.com/silence.htm) by Michal Zalewski
 
 -   [Master or Slave? The Fight for the Soul of Our Information Civilization](http://www.shoshanazuboff.com/new/about/) by Shoshana Zuboff
 
-- [Crypto 101](https://www.crypto101.io/) by By Laurens Van Houtven
+-   [Crypto 101](https://www.crypto101.io/) by By Laurens Van Houtven
 
-- [Web Hacking 101](https://leanpub.com/web-hacking-101) by By Peter Yaworski
+-    [Web Hacking 101](https://leanpub.com/web-hacking-101) by By Peter Yaworski
 
-- [iOS Application Security: The Definitive Guide for Hackers and Developers](https://www.nostarch.com/iossecurity) by By David Thiel
+-   [iOS Application Security: The Definitive Guide for Hackers and Developers](https://www.nostarch.com/iossecurity) by By David Thiel
 
 -   [Digital Disconnect: How Capitalism Is Turning the Internet Against Democracy](https://thenewpress.com/books/digital-disconnect) by Robert W. McChesney
 

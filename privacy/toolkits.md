@@ -1,5 +1,5 @@
 
-### Powerful Tool-kits
+## Powerful Tool-kits
 
  -  [Securityplanner](https://securityplanner.org) an extremely easy to use and very informative website to help you improve your online safety.
 
@@ -10,8 +10,6 @@
  -  [Webcensus](https://webtransparency.cs.princeton.edu/webcensus/) Informative census about tracking and many other issues I've discussed in this post.
 
 -   [Webtap](https://webtap.princeton.edu) Princeton's Web Transparency and Accountability site.
-
--   [Security Berkeley](https://security.berkeley.edu/resources) extremely valid Berkeley information security resources. Browse around. Start from the left menu.
 
 -   [The state of Privacy](http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/) FWIW, The state of privacy in post-Snowden America by the [Pew Research Center](https://en.wikipedia.org/wiki/Pew_Research_Center)
 
@@ -43,7 +41,6 @@
 
 -   [Motherboard](https://motherboard.vice.com/en_us/article/4xby8g/how-to-give-a-digital-security-training) A Practical Checklist For Leading Your First Training. Do you want to teach people about infosec, opsec, and how to stay safe online? Here's where to start.
 
--   [O&O ShutUp10](https://www.oo-software.com/en/shutup10) Free antispy tool for Windows 10. O&O ShutUp10 presents you with all important settings in one location – you need no previous IT knowledge and there is no need to manually change the Windows 10 system settings.
 
 ---------
 Thanks for Reading
