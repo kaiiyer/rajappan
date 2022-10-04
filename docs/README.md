@@ -2,7 +2,7 @@
 
 An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVATE FUTURE
 
-<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='docs/logo.png'></div>
+<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='logo.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.rajappan)
@@ -21,11 +21,11 @@ An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVAT
 <summary>Infosec Resources for Red/Blue/Purple Teams</summary>
 <br>
 
---> [**Red Team**](infosec/RedTeam/README.md)
+--> [**Red Team**](../infosec/RedTeam/README.md)
 
---> [**Blue Team**](infosec/BlueTeam/README.md)
+--> [**Blue Team**](../infosec/BlueTeam/README.md)
 
---> [**Purple Team**](infosec/PurpleTeam/README.md)
+--> [**Purple Team**](../infosec/PurpleTeam/README.md)
 
 </details>
 
@@ -33,17 +33,17 @@ An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVAT
 <summary>Explore the Project</summary>
 <br>
 
-[Dive In](explore/README.md)
+[Dive In](../explore/README.md)
 
---> [**Cyber Starter Pack**](explore/starter-pack.md)
+--> [**Cyber Starter Pack**](../explore/starter-pack.md)
 
---> [**Security Books**](explore/books.md)
+--> [**Security Books**](../explore/books.md)
 
---> [**Cyber Careers**](explore/career.md)
+--> [**Cyber Careers**](../explore/career.md)
 
---> [**Security Conferences and Podcasts**](explore/conf-pod.md)
+--> [**Security Conferences and Podcasts**](../explore/conf-pod.md)
 
---> [**Security YT Channels**](explore/video.md)
+--> [**Security YT Channels**](../explore/video.md)
 
 </details>
 
@@ -53,7 +53,7 @@ An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVAT
 <summary>Privacy</summary>
 <br>
 
---> [**Privacy Resources**](privacy/README.md)
+--> [**Privacy Resources**](../privacy/README.md)
 
 </details>
 
