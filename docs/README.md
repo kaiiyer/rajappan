@@ -2,7 +2,7 @@
 
 An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVATE FUTURE
 
-<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='https://user-images.githubusercontent.com/24914913/127732050-bd348cc2-5004-4640-a360-1458421128ab.png'> </div>
+<div style='display: block; width: 300px; margin-left: auto; margin-right: auto;'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0; ' alt='Rajappan: Breaking the limits' src='docs/logo.png'></div>
 
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.rajappan)
@@ -15,45 +15,50 @@ An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVAT
 
 ---------
 
-> Do you want to learn more about the Rajappan Project? Okay! We've got you covered.
-Click on the links below to get started!!!
+> Expand the topics below to dive in!!!
 
-**Infosec Resources for Red/Blue/Purple Teams**
+<details open>
+<summary>Infosec Resources for Red/Blue/Purple Teams</summary>
+<br>
 
---> [**Red Team**](/infosec/RedTeam)
+--> [**Red Team**](infosec/RedTeam/README.md)
 
---> [**Blue Team**](/infosec/BlueTeam)
+--> [**Blue Team**](infosec/BlueTeam/README.md)
 
---> [**Purple Team**](/infosec/PurpleTeam/README.md)
+--> [**Purple Team**](infosec/PurpleTeam/README.md)
 
---> [**OSINT**](/infosec/osint/README.md)
+</details>
 
-**Learning Path**
+<details>
+<summary>Explore the Project</summary>
+<br>
 
---> [**Blogs & Mailing Lists**](/learning-path/blog.md)
+[Dive In](explore/README.md)
 
---> [**Cheatsheets**](/learning-path/cheatsheets.md)
+--> [**Cyber Starter Pack**](explore/starter-pack.md)
 
---> [**Cyber Careers**](/learning-path/career.md)
+--> [**Security Books**](explore/books.md)
 
---> [**Cyber Starter Pack**](/learning-path/starter-pack.md)
+--> [**Cyber Careers**](explore/career.md)
 
---> [**Privacy Guide and Digital Security Articles**](/learning-path/guide-art.md)
+--> [**Security Conferences and Podcasts**](explore/conf-pod.md)
 
---> [**Security Conferences and Podcasts**](/learning-path/conf-pod.md)
+--> [**Security YT Channels**](explore/video.md)
 
---> [**Security Books**](/learning-path/books.md)
+</details>
 
---> [**Powerful Toolkits**](/learning-path/toolkits.md)
 
---> [**Youtube Channels**](/learning-path/video.md)
 
-**Privacy**
+<details>
+<summary>Privacy</summary>
+<br>
 
---> [**Privacy Resources**](/privacy/README.md)
+--> [**Privacy Resources**](privacy/README.md)
+
+</details>
+
 
 
 ---------
 
 <div style='display: block; width: 250px; margin-left: auto; margin-right: auto;'><a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto; margin-bottom: 0;' alt='Ethical Design' src='https://ind.ie/ethical-design/images/ethical-design-badge-tiny.svg'></a><p>We practice <strong>Ethical</strong> Design.</p></div>
-
