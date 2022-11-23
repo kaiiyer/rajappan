@@ -5,28 +5,30 @@
 
 - [The Red Canary Blog](https://redcanary.com/blog/) - Security teams need an ally to help defend against adversaries. Check out our blog for tips on increasing visibility, expanding detection coverage, and improving information security.
 
-- [Randy Franklin Smith's Ultimate Windows Security](https://www.ultimatewindowssecurity.com/) - Windows Security Stuff
-
 - [SANS Internet Storm Center](https://isc.sans.edu/) - ISC provides a free analysis and warning service to thousands of Internet users and organizations, and is actively working with Internet Service Providers to fight back against the most malicious attackers.
 
 - [DevSecOps](https://www.devsecops.org/) An informational site for security and business practitioners looking for innovative ways to incorporate security at scale
 
-- [Malware Archaeology CheatSheet](https://www.malwarearchaeology.com/cheat-sheets) - Cheat Sheets to help you in configuring your systems
-
 - [Detectify](https://blog.detectify.com/) - Security blog from Detectify, Automated security and asset monitoring for all teams.
 
 -------------
+
+## Incident Investigation
+
+- [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) by JPCERT
+
+- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/) - This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network
+
+- [Randy Franklin Smith's Ultimate Windows Security](https://www.ultimatewindowssecurity.com/) - Windows Security Stuff
+
+- [Malware Archaeology CheatSheet](https://www.malwarearchaeology.com/cheat-sheets) - Cheat Sheets to help you in configuring your systems
+
 
 ## Threat Intelligence
 
 - [Spyse](https://spyse.com) - Spyse is a search engine built for a quick cyber intelligence of IT infrastructures, networks, and even the smallest parts of the internet
 
 - [Intel Owl](https://github.com/intelowlproject/IntelOwl) - Analyze files, domains, IPs in multiple ways from a single API at scale
-
-
-## Incident Response
-
-- [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) by JPCERT
 
 
 ## SIEM
@@ -74,4 +76,5 @@
 
 ## Malware Analysis & Reverse Engineering
 - [MalGamy](https://malgamy.github.io) - A blog for case study and in-depth analysis of malware
+
 
