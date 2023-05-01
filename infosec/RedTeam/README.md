@@ -16,7 +16,15 @@
 
 - [HTML5 Security Cheatsheet](https://html5sec.org/): What your browser does when you look away
 
+### Red Teaming Resources
 
+- [The Art of Red Teaming](https://www.humblepwn.com/blog/red-team) - Blog about red teaming methodologies and techniques by a former NSA Red Teamer
+
+- [Red Team Alliance](https://www.redteamalliance.com/) - An online community of red teamers and security professionals that provides resources, training, and networking opportunities
+
+- [Adversary Emulation Resources](https://github.com/infosecn1nja/Red-Teaming-Toolkit#emulation) - A curated list of tools, techniques, and resources for adversary emulation
+
+- [Offensive Infrastructure Resources](https://github.com/infosecn1nja/Red-Teaming-Toolkit#infrastructure) - A curated list of tools, techniques, and resources for setting up and maintaining offensive infrastructure
 
 ### Exploits & Tools
 
@@ -43,6 +51,12 @@
 - [Philippeharewood Blog](https://philippeharewood.com/) These aren't the access_tokens you're looking for
 - [Tisiphone](https://tisiphone.net/) Blog by Lesley Carhart, Full Spectrum Cyber-Warrior Princess, 20+ year IT industry veteran,speaks and writes about digital forensics and incident response, Industrial Control System Security, OSINT, and information security careers
 - [Hackaday](https://hackaday.com/) Hackaday serves up Fresh Hacks Every Day from around the Internet
-- [Detectify Blog](https://labs.detectify.com/) Web Security blog from Detectify, Automated security and asset monitoring for all teams
-- [Vulnerability-lab](https://vulnerability-lab.com/) Vulnerability research, bug bounties and vulnerability assessments
-
+- [Pentester Land](https://pentester.land/): A blog about penetration testing and bug bounty hunting with a focus on automation and tooling.
+- [PortSwigger Research](https://portswigger.net/research): Blog by the creators of Burp Suite, covering a wide range of web security topics, from introductory tutorials to advanced exploitation techniques.
+- [The Hacker Blog](https://thehackerblog.com/): Blog by a team of ethical hackers, covering topics such as web application security, mobile application security, IoT security, and more.
+- [PwnFunction](https://pwnfunction.com/): A blog focused on cybersecurity research, with articles covering various topics including exploit development, reverse engineering, malware analysis, and more.
+- [Hacking Articles](https://www.hackingarticles.in/): A blog with a wide range of tutorials and articles covering various aspects of cybersecurity, from basic concepts to advanced techniques.
+- [SecureLayer7 Blog](https://blog.securelayer7.net/): A blog covering various topics related to application security, including vulnerability assessments, penetration testing, and secure development practices.
+- [FireEye Blog](https://www.fireeye.com/blog.html): A blog from cybersecurity firm FireEye, covering topics such as threat intelligence, incident response, and malware analysis.
+- [Tenable Blog](https://www.tenable.com/blog): A blog covering topics related to vulnerability management, network security, and compliance.
+- [Schneier on Security](https://www.schneier.com/): A blog by renowned security expert Bruce Schneier, covering a wide range of security topics from cryptography to privacy to surveillance.
