@@ -43,6 +43,11 @@
 - [dirkjanm.io](https://dirkjanm.io/)
 - [0xdf.gitlab.io](https://0xdf.gitlab.io/tags.html#active-directory)
 
+### Malware Development
+
+- [Maldev Academy](https://maldevacademy.com/) - Maldev Academy is a comprehensive malware development course that focuses on x64 malware development, providing knowledge from basic to advanced level
+
+
 ## Mail Lists for Pentesters
 - [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/): A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community
 - [Bugtraq Mailing List](https://seclists.org/bugtraq/) - The premier general security mailing list. Vulnerabilities are often announced here first, so check frequently! 
