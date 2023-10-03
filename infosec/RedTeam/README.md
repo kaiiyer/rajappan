@@ -16,6 +16,8 @@
 
 - [HTML5 Security Cheatsheet](https://html5sec.org/): What your browser does when you look away
 
+- [Moonshine](https://github.com/sidaf/moonshine) - Moonshine is a C2 framework with a custom Lua interpreter
+
 ### Red Teaming Resources
 
 - [The Art of Red Teaming](https://www.humblepwn.com/blog/red-team) - Blog about red teaming methodologies and techniques by a former NSA Red Teamer
