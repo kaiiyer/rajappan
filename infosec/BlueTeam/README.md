@@ -9,6 +9,8 @@
 
 - [DevSecOps](https://www.devsecops.org/) An informational site for security and business practitioners looking for innovative ways to incorporate security at scale
 
+- [Adversary Tactics: PowerShell](https://github.com/specterops/at-ps) - Intro, Basics, Remoting, PowerShell Without PowerShell
+
 - [Detectify](https://blog.detectify.com/) - Security blog from Detectify, Automated security and asset monitoring for all teams
 
 - [Boss of the SOC](https://www.splunk.com/en_us/blog/tag/boss-of-the-soc.html) - BOTS is a blue-team, jeopardy-style, capture-the-flag-esque (CTF) activity where participants leverage Splunk's Security Suite and other resources to answer a variety of questions about the type of real-world security incidents
@@ -118,3 +120,5 @@
 
 ## Malware Analysis & Reverse Engineering
 - [MalGamy](https://malgamy.github.io) - A blog for case study and in-depth analysis of malware
+
+- [Learn Ghidra](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Exercises to get started with Ghidra and advanced development
