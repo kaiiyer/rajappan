@@ -19,7 +19,7 @@
 
 - [Blue Team Village](https://www.blueteamvillage.org/) - Blue Team Village is a community-led organization that provides education and resources for blue teamers, including presentations, workshops, and capture-the-flag (CTF) events
 
-- [MITRE ATT&CK](https://attack.mitre.org/) - MITRE ATT&CK is a framework that helps organizations understand how attackers operate and provides a common language for describing and sharing information about cyber threats
+- [MITRE ATT&CK](https://attack.mitre.org/) - MITRE ATT&CK is a framework that helps organizations understand how attackers operate and provide a common language for describing and sharing information about cyber threats
 
 - [CIS Controls](https://www.cisecurity.org/controls/) - The Center for Internet Security (CIS) Controls are a set of guidelines for implementing and improving an organization's cybersecurity posture
 
@@ -36,14 +36,14 @@
 
 - [Randy Franklin Smith's Ultimate Windows Security](https://www.ultimatewindowssecurity.com/) - Windows Security Stuff
 
-- [Malware Archaeology CheatSheet](https://www.malwarearchaeology.com/cheat-sheets) - Cheat Sheets to help you in configuring your systems
+- [Malware Archaeology CheatSheet](https://www.malwarearchaeology.com/cheat-sheets) - Cheat Sheets to help you configure your systems
 
 
 ## Threat Intelligence
 
 - [Spyse](https://spyse.com) - Spyse is a search engine built for a quick cyber intelligence of IT infrastructures, networks, and even the smallest parts of the internet
 
-- [Intel Owl](https://github.com/intelowlproject/IntelOwl) - Analyze files, domains, IPs in multiple ways from a single API at scale
+- [Intel Owl](https://github.com/intelowlproject/IntelOwl) - Analyze files, domains, and IPs in multiple ways from a single API at scale
 
 - [VirusTotal](https://www.virustotal.com/gui/) - VirusTotal is a free online service that analyzes files and URLs for potential malware and provides information about their behavior
 
