@@ -32,7 +32,7 @@
 
 - [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) by JPCERT
 
-- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/) - This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network
+- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/) - This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools that are likely to be used by the attacker that has infiltrated a network
 
 - [Randy Franklin Smith's Ultimate Windows Security](https://www.ultimatewindowssecurity.com/) - Windows Security Stuff
 
