@@ -79,6 +79,8 @@
 
 - [YARA](https://virustotal.github.io/yara/) - YARA is a pattern-matching tool for identifying and classifying malware and other threats
 
+- [LOLRMM](https://lolrmm.io/) - LOLRMM is a curated list of Remote Monitoring and Management (RMM) tools that could potentially be abused by threat actors
+
 
 ## Log Management & Object Storage
 
