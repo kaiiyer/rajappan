@@ -18,6 +18,8 @@
 
 - [Moonshine](https://github.com/sidaf/moonshine) - Moonshine is a C2 framework with a custom Lua interpreter
 
+- [C2Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?gid=0#gid=0) - C2 framework document
+
 ### Red Teaming Resources
 
 - [The Art of Red Teaming](https://www.humblepwn.com/blog/red-team) - Blog about red teaming methodologies and techniques by a former NSA Red Teamer
