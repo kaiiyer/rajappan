@@ -13,6 +13,8 @@ An All-In-One Digital Privacy Project. A STEP IN THE RIGHT DIRECTION TO A PRIVAT
 [![GitHub license](https://img.shields.io/github/license/kaiiyer/rajappan)](https://github.com/kaiiyer/rajappan/blob/master/LICENSE)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/rajappan.svg)
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=264258658" height="20">](https://api.gitsponsors.com/api/badge/link?p=DngerUKhHsctqzUgGKmX7k4wqwEkxtfU3/9FiiFnhLjoBuGRq79SufCvZEX+dkNN)
+
 ---------
 
 > Expand the topics below to dive in!!!
